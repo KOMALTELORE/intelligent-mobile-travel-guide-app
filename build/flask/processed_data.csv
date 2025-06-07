@@ -1,0 +1,326 @@
+Unnamed: 0,State,City,Name,Type,Type_encoded,combined_features
+0,Delhi,Delhi,India Gate,War Memorial,74,War Memorial Delhi Delhi
+1,Delhi,Delhi,Humayun's Tomb,Tomb,65,Tomb Delhi Delhi
+2,Delhi,Delhi,Akshardham Temple,Temple,62,Temple Delhi Delhi
+3,Delhi,Delhi,Waste to Wonder Park,Theme Park,64,Theme Park Delhi Delhi
+4,Delhi,Delhi,Jantar Mantar,Observatory,38,Observatory Delhi Delhi
+5,Delhi,Delhi,Chandni Chowk,Market,28,Market Delhi Delhi
+6,Delhi,Delhi,Lotus Temple,Temple,62,Temple Delhi Delhi
+7,Delhi,Delhi,Red Fort,Fort,17,Fort Delhi Delhi
+8,Delhi,Delhi,Agrasen ki Baoli,Stepwell,58,Stepwell Delhi Delhi
+9,Delhi,Delhi,Sunder Nursery,Park,41,Park Delhi Delhi
+10,Delhi,Delhi,Garden of Five Senses,Park,41,Park Delhi Delhi
+11,Delhi,Delhi,Lodhi Garden,Park,41,Park Delhi Delhi
+12,Delhi,Delhi,National Gallery of Modern Art,Museum,35,Museum Delhi Delhi
+13,Delhi,Delhi,National Zoological Park ,Zoo,77,Zoo Delhi Delhi
+14,Delhi,Delhi,Qutub Minar,Monument,32,Monument Delhi Delhi
+15,Delhi,Delhi,National Science Centre,Science,52,Science Delhi Delhi
+16,Maharastra,Mumbai,Marine Drive,Promenade,43,Promenade Mumbai Maharastra
+17,Maharastra,Mumbai,Gateway of India,Monument,32,Monument Mumbai Maharastra
+18,Maharastra,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,35,Museum Mumbai Maharastra
+19,Maharastra,Mumbai,Sanjay Gandhi National Park,National Park,36,National Park Mumbai Maharastra
+20,Maharastra,Mumbai,Siddhivinayak Temple,Temple,62,Temple Mumbai Maharastra
+21,Maharastra,Mumbai,Mahalaxmi Temple,Temple,62,Temple Mumbai Maharastra
+22,Maharastra,Mumbai,Haji Ali Dargah,Religious Shrine,46,Religious Shrine Mumbai Maharastra
+23,Maharastra,Mumbai,Chowpatty Beach,Beach,3,Beach Mumbai Maharastra
+24,Maharastra,Mumbai,Essel World,Amusement Park,1,Amusement Park Mumbai Maharastra
+25,Maharastra,Mumbai,Elephanta Caves,Monument,32,Monument Mumbai Maharastra
+26,Maharastra,Lonavala,Imagicaa,Amusement Park,1,Amusement Park Lonavala Maharastra
+27,Karnataka,Bangalore,Bangalore Palace,Palace,40,Palace Bangalore Karnataka
+28,Karnataka,Bangalore,Lalbagh Botanical Garden,Botanical Garden,6,Botanical Garden Bangalore Karnataka
+29,Karnataka,Bangalore,Cubbon Park,Park,41,Park Bangalore Karnataka
+30,Karnataka,Bangalore,Vidhana Soudha,Government Building,19,Government Building Bangalore Karnataka
+31,Karnataka,Bangalore,ISKCON Temple Bangalore,Temple,62,Temple Bangalore Karnataka
+32,Telangana,Hyderabad,Charminar,Landmark,26,Landmark Hyderabad Telangana
+33,Telangana,Hyderabad,Golconda Fort,Fort,17,Fort Hyderabad Telangana
+34,Telangana,Hyderabad,Hussain Sagar Lake,Lake,25,Lake Hyderabad Telangana
+35,Telangana,Hyderabad,Ramoji Film City,Film Studio,16,Film Studio Hyderabad Telangana
+36,Telangana,Hyderabad,Salar Jung Museum,Museum,35,Museum Hyderabad Telangana
+37,Telangana,Hyderabad,Qutb Shahi Tombs,Tombs,66,Tombs Hyderabad Telangana
+38,Telangana,Hyderabad,Birla Mandir,Temple,62,Temple Hyderabad Telangana
+39,Telangana,Hyderabad,Chowmahalla Palace,Palace,40,Palace Hyderabad Telangana
+40,Telangana,Hyderabad,Nehru Zoological Park,Zoo,77,Zoo Hyderabad Telangana
+41,Telangana,Hyderabad,Lumbini Park,Park,41,Park Hyderabad Telangana
+42,West Bengal,Kolkata,Victoria Memorial,Museum,35,Museum Kolkata West Bengal
+43,West Bengal,Kolkata,Howrah Bridge,Bridge,7,Bridge Kolkata West Bengal
+44,West Bengal,Kolkata,Indian Museum,Museum,35,Museum Kolkata West Bengal
+45,West Bengal,Kolkata,Dakshineswar Kali Temple,Temple,62,Temple Kolkata West Bengal
+46,West Bengal,Kolkata,Kalighat Kali Temple,Temple,62,Temple Kolkata West Bengal
+47,West Bengal,Kolkata,Eden Gardens,Cricket Ground,12,Cricket Ground Kolkata West Bengal
+48,West Bengal,Kolkata,Alipore Zoological Gardens,Zoo,77,Zoo Kolkata West Bengal
+49,West Bengal,Kolkata,Science City Kolkata,Science,52,Science Kolkata West Bengal
+50,West Bengal,Kolkata,Belur Math,Site,55,Site Kolkata West Bengal
+51,West Bengal,Kolkata,Marble Palace,Palace,40,Palace Kolkata West Bengal
+52,Goa,Goa,Calangute Beach,Beach,3,Beach Goa Goa
+53,Goa,Goa,Basilica of Bom Jesus,Church,9,Church Goa Goa
+54,Goa,Goa,Fort Aguada,Fort,17,Fort Goa Goa
+55,Goa,Goa,Dudhsagar Falls,Waterfall,75,Waterfall Goa Goa
+56,Goa,Goa,Anjuna Beach,Beach,3,Beach Goa Goa
+57,Goa,Goa,Chapora Fort,Fort,17,Fort Goa Goa
+58,Goa,Goa,Se Cathedral,Church,9,Church Goa Goa
+59,Goa,Goa,Baga Beach,Beach,3,Beach Goa Goa
+60,Goa,Goa,Arambol Beach,Beach,3,Beach Goa Goa
+61,Goa,Goa,Palolem Beach,Beach,3,Beach Goa Goa
+62,Goa,Goa,Colva Beach,Beach,3,Beach Goa Goa
+63,Goa,Goa,Miramar Beach,Beach,3,Beach Goa Goa
+64,Goa,Goa,Aguada Beach,Beach,3,Beach Goa Goa
+65,Goa,Goa,Dr. Salim Ali Bird Santuary,Bird Sanctuary,4,Bird Sanctuary Goa Goa
+66,Gujarat,Ahmedabad,Sabarmati Ashram,Historical,23,Historical Ahmedabad Gujarat
+67,Gujarat,Dwarka,Dwarkadhish Temple,Temple,62,Temple Dwarka Gujarat
+68,Gujarat,Junagadh,Gir National Park,National Park,36,National Park Junagadh Gujarat
+69,Gujarat,Bhuj,White Desert,Site,55,Site Bhuj Gujarat
+70,Gujarat,Vadodara,Laxmi Vilas Palace,Palace,40,Palace Vadodara Gujarat
+71,Gujarat,Somnath,Somnath Temple,Temple,62,Temple Somnath Gujarat
+72,Gujarat,Rann of Kutch,Rann Utsav,Cultural,13,Cultural Rann of Kutch Gujarat
+73,Gujarat,Kevadia,Statue of Unity,Monument,32,Monument Kevadia Gujarat
+74,Gujarat,Gandhinagar,Dandi Kutir,Museum,35,Museum Gandhinagar Gujarat
+75,Gujarat,Ahmedabad,Sabarmati Riverfront,Urban Development Project,69,Urban Development Project Ahmedabad Gujarat
+76,Gujarat,Ahmedabad,Manek Chowk,Market,28,Market Ahmedabad Gujarat
+77,Gujarat,Ahmedabad,Kankaria Lake,Lake,25,Lake Ahmedabad Gujarat
+78,Gujarat,Ahmedabad,Science City,Science,52,Science Ahmedabad Gujarat
+79,Rajasthan,Jaipur,Hawa Mahal,Palace,40,Palace Jaipur Rajasthan
+80,Rajasthan,Udaipur,City Palace,Palace,40,Palace Udaipur Rajasthan
+81,Rajasthan,Jaisalmer,Jaisalmer Fort,Fort,17,Fort Jaisalmer Rajasthan
+82,Rajasthan,Sawai Madhopur,Ranthambore National Park,Wildlife Sanctuary,76,Wildlife Sanctuary Sawai Madhopur Rajasthan
+83,Rajasthan,Pushkar,Pushkar Lake,Temple,62,Temple Pushkar Rajasthan
+84,Rajasthan,Ajmer,Ajmer Sharif Dargah,Shrine,54,Shrine Ajmer Rajasthan
+85,Rajasthan,Jodhpur,Mehrangarh Fort,Fort,17,Fort Jodhpur Rajasthan
+86,Rajasthan,Chittorgarh,Chittorgarh Fort,Fort,17,Fort Chittorgarh Rajasthan
+87,Rajasthan,Mount Abu,Dilwara Temples,Temple,62,Temple Mount Abu Rajasthan
+88,Rajasthan,Bikaner,Junagarh Fort,Fort,17,Fort Bikaner Rajasthan
+89,Rajasthan,Jaipur,Amber Fort,Fort,17,Fort Jaipur Rajasthan
+90,Rajasthan,Jaipur,Jaigarh Fort,Fort,17,Fort Jaipur Rajasthan
+91,Rajasthan,Udaipur,Lake Pichola,Lake,25,Lake Udaipur Rajasthan
+92,Punjab,Amritsar,Golden Temple (Harmandir Sahib),Religious Site,47,Religious Site Amritsar Punjab
+93,Punjab,Amritsar,Jallianwala Bagh,Memorial,30,Memorial Amritsar Punjab
+94,Punjab,Amritsar,Wagah Border,Border Crossing,5,Border Crossing Amritsar Punjab
+95,Punjab,Chandigarh,Rock Garden,Sculpture Garden,53,Sculpture Garden Chandigarh Punjab
+96,Kerala,Alappuzha,Alappuzha Beach,Beach,3,Beach Alappuzha Kerala
+97,Kerala,Munnar,Munnar Tea Gardens,Scenic Area,50,Scenic Area Munnar Kerala
+98,Kerala,Kochi,Fort Kochi,Site,55,Site Kochi Kerala
+99,Kerala,Thiruvananthapuram,Padmanabhaswamy Temple,Temple,62,Temple Thiruvananthapuram Kerala
+100,Kerala,Kozhikode,Kozhikode Beach,Beach,3,Beach Kozhikode Kerala
+101,Kerala,Wayanad,Wayanad Wildlife Sanctuary,Wildlife Sanctuary,76,Wildlife Sanctuary Wayanad Kerala
+102,Kerala,Thekkady,Periyar National Park,National Park,36,National Park Thekkady Kerala
+103,Kerala,Kumarakom,Kumarakom Bird Sanctuary,Bird Sanctuary,4,Bird Sanctuary Kumarakom Kerala
+104,Kerala,Varkala,Varkala Beach,Beach,3,Beach Varkala Kerala
+105,Kerala,Bekal,Bekal Fort,Fort,17,Fort Bekal Kerala
+106,Kerala,Kovalam,Kovalam Beach,Beach,3,Beach Kovalam Kerala
+107,Kerala,Kannur,St. Angelo Fort,Fort,17,Fort Kannur Kerala
+108,Kerala,Nelliyampathy,Seethargundu Viewpoint,Viewpoint,71,Viewpoint Nelliyampathy Kerala
+109,Kerala,Kochi,Kerala Folklore Museum,Cultural,13,Cultural Kochi Kerala
+110,Kerala,Kochi,Wonderla Amusement Park,Amusement Park,1,Amusement Park Kochi Kerala
+111,Karnataka,Mysore,Mysore Palace,Palace,40,Palace Mysore Karnataka
+112,Karnataka,Hampi,Hampi Archaeological Ruins,Site,55,Site Hampi Karnataka
+113,Karnataka,Coorg,Abbey Falls,Waterfall,75,Waterfall Coorg Karnataka
+114,Karnataka,Gokarna,Om Beach,Beach,3,Beach Gokarna Karnataka
+115,Karnataka,Chikmagalur,Mullayanagiri,Mountain Peak,34,Mountain Peak Chikmagalur Karnataka
+116,Karnataka,Badami,Badami Cave Temples,Cave,8,Cave Badami Karnataka
+117,Karnataka,Shivamogga,Jog Falls,Waterfall,75,Waterfall Shivamogga Karnataka
+118,Karnataka,Mangalore,Panambur Beach,Beach,3,Beach Mangalore Karnataka
+119,Karnataka,Murudeshwar,Murudeshwar Temple,Temple,62,Temple Murudeshwar Karnataka
+120,Karnataka,Bijapur,Gol Gumbaz,Mausoleum,29,Mausoleum Bijapur Karnataka
+121,Karnataka,Bandipur,Bandipur National Park,National Park,36,National Park Bandipur Karnataka
+122,Karnataka,Halebidu,Halebidu Hoysaleswara Temple,Temple,62,Temple Halebidu Karnataka
+123,Maharastra,Pune,Shaniwar Wada,Fort,17,Fort Pune Maharastra
+124,Maharastra,Aurangabad,Ajanta Caves,Cave,8,Cave Aurangabad Maharastra
+125,Maharastra,Nashik,Sula Vineyards,Vineyard,73,Vineyard Nashik Maharastra
+126,Maharastra,Shirdi,Sai Baba Temple,Temple,62,Temple Shirdi Maharastra
+127,Maharastra,Alibaug,Alibaug Beach,Beach,3,Beach Alibaug Maharastra
+128,Maharastra,Ratnagiri,Ganapatipule Temple,Temple,62,Temple Ratnagiri Maharastra
+129,Maharastra,Nagpur,Deekshabhoomi,Monument,32,Monument Nagpur Maharastra
+130,Maharastra,Kolhapur,Mahalakshmi Temple,Temple,62,Temple Kolhapur Maharastra
+131,Maharastra,Lonavala,Karla Caves,Cave,8,Cave Lonavala Maharastra
+132,Maharashtra,Tarkarli,Tarkarli Beach,Beach,3,Beach Tarkarli Maharashtra
+133,Maharashtra,Satara,Kaas Plateau,Valley,70,Valley Satara Maharashtra
+134,Maharashtra,Matheran,Echo Point,Viewpoint,71,Viewpoint Matheran Maharashtra
+135,Maharashtra,Ajanta,Ellora Caves,Cave,8,Cave Ajanta Maharashtra
+136,Madhya Pradesh,Khajuraho,Khajuraho Group of Monuments,Temples,63,Temples Khajuraho Madhya Pradesh
+137,Madhya Pradesh,Bhopal,Sanchi Stupa,Monument,32,Monument Bhopal Madhya Pradesh
+138,Madhya Pradesh,Indore,Rajwada Palace,Palace,40,Palace Indore Madhya Pradesh
+139,Madhya Pradesh,Gwalior,Gwalior Fort,Fort,17,Fort Gwalior Madhya Pradesh
+140,Madhya Pradesh,Ujjain,Mahakaleshwar Jyotirlinga,Temple,62,Temple Ujjain Madhya Pradesh
+141,Madhya Pradesh,Jabalpur,Dhuandhar Falls,Waterfall,75,Waterfall Jabalpur Madhya Pradesh
+142,Madhya Pradesh,Pachmarhi,Bee Falls,Waterfall,75,Waterfall Pachmarhi Madhya Pradesh
+143,Madhya Pradesh,Kanha,Kanha National Park,Wildlife Sanctuary,76,Wildlife Sanctuary Kanha Madhya Pradesh
+144,Madhya Pradesh,Bandhavgarh,Bandhavgarh National Park,National Park,36,National Park Bandhavgarh Madhya Pradesh
+145,Madhya Pradesh,Orchha,Orchha Fort,Fort,17,Fort Orchha Madhya Pradesh
+146,Madhya Pradesh,Mandu,Jahaz Mahal,Site,55,Site Mandu Madhya Pradesh
+147,Madhya Pradesh,Bhimbetka,Bhimbetka Rock Shelters,Prehistoric Site,42,Prehistoric Site Bhimbetka Madhya Pradesh
+148,Madhya Pradesh,Amarkantak,Narmada Udgam Temple,Temple,62,Temple Amarkantak Madhya Pradesh
+149,Madhya Pradesh,Chitrakoot,Chitrakoot Falls,Waterfall,75,Waterfall Chitrakoot Madhya Pradesh
+150,Himachal Pradesh,Shimla,The Ridge,Scenic Point,51,Scenic Point Shimla Himachal Pradesh
+151,Himachal Pradesh,Manali,Solang Valley,Valley,70,Valley Manali Himachal Pradesh
+152,Himachal Pradesh,dalhousie,Dalai Lama Temple,Temple,62,Temple dalhousie Himachal Pradesh
+153,Himachal Pradesh,Dalhousie,Khajjiar Lake,Lake,25,Lake Dalhousie Himachal Pradesh
+154,Himachal Pradesh,Spiti Valley,Key Monastery,Monastery,31,Monastery Spiti Valley Himachal Pradesh
+155,Himachal Pradesh,Kullu,Great Himalayan National Park,National Park,36,National Park Kullu Himachal Pradesh
+156,Himachal Pradesh,Chamba,Chamera Lake,Lake,25,Lake Chamba Himachal Pradesh
+157,Himachal Pradesh,Kinnaur,Sangla Valley,Valley,70,Valley Kinnaur Himachal Pradesh
+158,Himachal Pradesh,Kangra,Kangra Fort,Fort,17,Fort Kangra Himachal Pradesh
+159,Himachal Pradesh,Palampur,Tea Gardens,Tea Plantation,61,Tea Plantation Palampur Himachal Pradesh
+160,Himachal Pradesh,Mandi,Prashar Lake,Lake,25,Lake Mandi Himachal Pradesh
+161,Himachal Pradesh,Bir Billing,Paragliding Site,Adventure Sport,0,Adventure Sport Bir Billing Himachal Pradesh
+162,Himachal Pradesh,McLeod Ganj,Triund Trek,Trekking,68,Trekking McLeod Ganj Himachal Pradesh
+163,Himachal Pradesh,Manikaran,Manikaran Sahib,Gurudwara,21,Gurudwara Manikaran Himachal Pradesh
+164,Himachal Pradesh,Narkanda,Hatu Peak,Viewpoint,71,Viewpoint Narkanda Himachal Pradesh
+165,Himachal Pradesh,Barot,Barot Valley,Valley,70,Valley Barot Himachal Pradesh
+166,Himachal Pradesh,Shoja,Serolsar Lake,Lake,25,Lake Shoja Himachal Pradesh
+167,Himachal Pradesh,Kufri,Kufri Fun World,Ski Resort,56,Ski Resort Kufri Himachal Pradesh
+168,Uttarakhand,Nainital,Naini Lake,Lake,25,Lake Nainital Uttarakhand
+169,Uttarakhand,Rishikesh,Laxman Jhula,Suspension Bridge,60,Suspension Bridge Rishikesh Uttarakhand
+170,Uttarakhand,Haridwar,Har Ki Pauri,Ghat,18,Ghat Haridwar Uttarakhand
+171,Uttarakhand,Dehradun,Robber's Cave,Cave,8,Cave Dehradun Uttarakhand
+172,Uttarakhand,Mussoorie,Kempty Falls,Waterfall,75,Waterfall Mussoorie Uttarakhand
+173,Uttarakhand,Auli,Auli Ski Resort,Ski Resort,56,Ski Resort Auli Uttarakhand
+174,Uttarakhand,Badrinath,Badrinath Temple,Temple,62,Temple Badrinath Uttarakhand
+175,Uttarakhand,Almora,Binsar Wildlife Sanctuary,Wildlife Sanctuary,76,Wildlife Sanctuary Almora Uttarakhand
+176,Uttarakhand,Ranikhet,Chaubatia Gardens,Orchard,39,Orchard Ranikhet Uttarakhand
+177,Uttarakhand,Jim Corbett,Jim Corbett National Park,National Park,36,National Park Jim Corbett Uttarakhand
+178,Uttarakhand,Uttarkashi,Gangotri Temple,Temple,62,Temple Uttarkashi Uttarakhand
+179,Uttarakhand,Chopta,Tungnath Temple,Temple,62,Temple Chopta Uttarakhand
+180,Uttarakhand,Joshimath,Valley of Flowers,National Park,36,National Park Joshimath Uttarakhand
+181,Uttar Pradesh,Agra,Taj Mahal,Mausoleum,29,Mausoleum Agra Uttar Pradesh
+182,Uttar Pradesh,Varanasi,Kashi Vishwanath Temple,Temple,62,Temple Varanasi Uttar Pradesh
+183,Uttar Pradesh,Lucknow,Bara Imambara,Monument,32,Monument Lucknow Uttar Pradesh
+184,Uttar Pradesh,Mathura,Krishna Janmabhoomi,Temple,62,Temple Mathura Uttar Pradesh
+185,Uttar Pradesh,Ayodhya,Ram Janmabhoomi,Religious Site,47,Religious Site Ayodhya Uttar Pradesh
+186,Uttar Pradesh,Vrindavan,Banke Bihari Temple,Temple,62,Temple Vrindavan Uttar Pradesh
+187,Uttar Pradesh,Allahabad,Triveni Sangam,Confluence,11,Confluence Allahabad Uttar Pradesh
+188,Uttar Pradesh,Jhansi,Jhansi Fort,Fort,17,Fort Jhansi Uttar Pradesh
+189,Uttar Pradesh,Sarnath,Dhamek Stupa,Monument,32,Monument Sarnath Uttar Pradesh
+190,Uttar Pradesh,Fatehpur Sikri,Buland Darwaza,Monument,32,Monument Fatehpur Sikri Uttar Pradesh
+191,Uttar Pradesh,Noida,Okhla Bird Sanctuary,Bird Sanctuary,4,Bird Sanctuary Noida Uttar Pradesh
+192,Uttar Pradesh,Aligarh,Aligarh Fort,Fort,17,Fort Aligarh Uttar Pradesh
+193,Uttar Pradesh,Meerut,Augarnath Temple,Temple,62,Temple Meerut Uttar Pradesh
+194,Uttar Pradesh,Kanpur,Allen Forest Zoo,Zoo,77,Zoo Kanpur Uttar Pradesh
+195,Jammu and Kashmir,Srinagar,Dal Lake,Lake,25,Lake Srinagar Jammu and Kashmir
+196,Ladakh,Leh,Pangong Tso,Lake,25,Lake Leh Ladakh
+197,Jammu and Kashmir,Pahalgam,Betaab Valley,Valley,70,Valley Pahalgam Jammu and Kashmir
+198,Jammu and Kashmir,Jammu,Vaishno Devi,Temple,62,Temple Jammu Jammu and Kashmir
+199,Jammu and Kashmir,Udhampur,Patnitop Height,Hill,22,Hill Udhampur Jammu and Kashmir
+200,Jammu and Kashmir,Anantnag,Amarnath Cave,Temple,62,Temple Anantnag Jammu and Kashmir
+201,Ladakh,Leh,Thiksey Monastery,Monastery,31,Monastery Leh Ladakh
+202,Ladakh,Nubra Valley,Nubra Valley,Valley,70,Valley Nubra Valley Ladakh
+203,Ladakh,Kargil,Kargil War Memorial,War Memorial,74,War Memorial Kargil Ladakh
+204,Ladakh,Diskit,Diskit Monastery,Monastery,31,Monastery Diskit Ladakh
+205,Jammu and Kashmir,Kishtwar,Kishtwar National Park,National Park,36,National Park Kishtwar Jammu and Kashmir
+206,Ladakh,Hemis,Hemis National Park,National Park,36,National Park Hemis Ladakh
+207,Ladakh,Dras,Dras War Memorial,War Memorial,74,War Memorial Dras Ladakh
+208,Ladakh,Leh,Magnetic Hill,Gravity Hill,20,Gravity Hill Leh Ladakh
+209,Ladakh,Leh,Khardung La Pass,Hill,22,Hill Leh Ladakh
+210,Ladakh,Leh,Thiksey Monastery,Monastery,31,Monastery Leh Ladakh
+211,Uttar Pradesh,Vrindavan,Prem Mandir,Temple,62,Temple Vrindavan Uttar Pradesh
+212,Uttar Pradesh,Porbandar,Kirti Mandir,Memorial,30,Memorial Porbandar Uttar Pradesh
+213,Uttar Pradesh,Mathura,Nand Gaon,Village,72,Village Mathura Uttar Pradesh
+214,Uttar Pradesh,Mathura,Barsana Mandir,Temple,62,Temple Mathura Uttar Pradesh
+215,West Bengal,Darjeeling,Tiger Hill,Sunrise Point,59,Sunrise Point Darjeeling West Bengal
+216,West Bengal,Siliguri,Jaldapara National Park,Wildlife Sanctuary,76,Wildlife Sanctuary Siliguri West Bengal
+217,West Bengal,Sundarbans,Sundarbans National Park,National Park,36,National Park Sundarbans West Bengal
+218,West Bengal,Digha,Digha Beach,Beach,3,Beach Digha West Bengal
+219,West Bengal,Murshidabad,Hazarduari Palace,Palace,40,Palace Murshidabad West Bengal
+220,West Bengal,Bolpur,Kankalitala Temple,Temple,62,Temple Bolpur West Bengal
+221,West Bengal,Hooghly,Hangseswari Temple,Temple,62,Temple Hooghly West Bengal
+222,West Bengal,Jalpaiguri,Gorumara National Park,National Park,36,National Park Jalpaiguri West Bengal
+223,West Bengal,Cooch Behar,Cooch Behar Palace,Palace,40,Palace Cooch Behar West Bengal
+224,West Bengal,Purulia,Ayodhya Hills,Hill,22,Hill Purulia West Bengal
+225,Odisha,Puri,Jagannath Temple,Temple,62,Temple Puri Odisha
+226,Odisha,Konark,Sun Temple,Temple,62,Temple Konark Odisha
+227,Odisha,Bhubaneswar,Lingaraj Temple,Temple,62,Temple Bhubaneswar Odisha
+228,Odisha,Rourkela,Khandadhar Waterfall,Waterfall,75,Waterfall Rourkela Odisha
+229,Odisha,Cuttack,Barabati Fort,Fort,17,Fort Cuttack Odisha
+230,Odisha,Sambalpur,Hirakud Dam,Dam,14,Dam Sambalpur Odisha
+231,Odisha,Chilika,Chilika Lake,Lake,25,Lake Chilika Odisha
+232,Odisha,Berhampur,Tara Tarini Temple,Temple,62,Temple Berhampur Odisha
+233,Odisha,Keonjhar,Badaghagara Waterfall,Waterfall,75,Waterfall Keonjhar Odisha
+234,Odisha,Balasore,Chandipur Beach,Beach,3,Beach Balasore Odisha
+235,Odisha,Kendujhar,Sanaghagara Waterfall,Waterfall,75,Waterfall Kendujhar Odisha
+236,Tamil Nadu,Chennai,Marina Beach,Beach,3,Beach Chennai Tamil Nadu
+237,Tamil Nadu,Madurai,Meenakshi Amman Temple,Temple,62,Temple Madurai Tamil Nadu
+238,Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,62,Temple Rameswaram Tamil Nadu
+239,Tamil Nadu,Kanyakumari,Vivekananda Rock Memorial,Memorial,30,Memorial Kanyakumari Tamil Nadu
+240,Tamil Nadu,Ooty,Ooty Lake,Lake,25,Lake Ooty Tamil Nadu
+241,Tamil Nadu,Coimbatore,Marudamalai Temple,Temple,62,Temple Coimbatore Tamil Nadu
+242,Tamil Nadu,Kodaikanal,Kodaikanal Lake,Lake,25,Lake Kodaikanal Tamil Nadu
+243,Tamil Nadu,Thanjavur,Brihadeeswarar Temple,Temple,62,Temple Thanjavur Tamil Nadu
+244,Tamil Nadu,Mahabalipuram,Shore Temple,Temple,62,Temple Mahabalipuram Tamil Nadu
+245,Tamil Nadu,Yercaud,Yercaud Lake,Lake,25,Lake Yercaud Tamil Nadu
+246,Tamil Nadu,Tirunelveli,Nellaiappar Temple,Temple,62,Temple Tirunelveli Tamil Nadu
+247,Tamil Nadu,Chidambaram,Nataraja Temple,Temple,62,Temple Chidambaram Tamil Nadu
+248,Andhra Pradesh,Vijayawada,Kanaka Durga Temple,Temple,62,Temple Vijayawada Andhra Pradesh
+249,Andhra Pradesh,Visakhapatnam,Rishikonda Beach,Beach,3,Beach Visakhapatnam Andhra Pradesh
+250,Andhra Pradesh,Srisailam,Mallikarjuna Swamy Temple,Temple,62,Temple Srisailam Andhra Pradesh
+251,Andhra Pradesh,Rajahmundry,Papikondalu,Hill,22,Hill Rajahmundry Andhra Pradesh
+252,Andhra Pradesh,Anantapur,Lepakshi,Site,55,Site Anantapur Andhra Pradesh
+253,Andhra Pradesh,Kurnool,Belum Caves,Cave,8,Cave Kurnool Andhra Pradesh
+254,Andhra Pradesh,Amravati,Amaravathi Temple,Temple,62,Temple Amravati Andhra Pradesh
+255,Andhra Pradesh,Guntur,Uppalapadu Bird Sanctuary,Bird Sanctuary,4,Bird Sanctuary Guntur Andhra Pradesh
+256,Andhra Pradesh,Kadapa,Gandikota Fort,Fort,17,Fort Kadapa Andhra Pradesh
+257,Andhra Pradesh,Puttaparthi,Prasanthi Nilayam,Spiritual Center,57,Spiritual Center Puttaparthi Andhra Pradesh
+258,Andhra Pradesh,Vizianagaram,Simhachalam Temple,Temple,62,Temple Vizianagaram Andhra Pradesh
+259,Andhra Pradesh,Visakhapatnam,Kailasagiri,Hill,22,Hill Visakhapatnam Andhra Pradesh
+260,Andhra Pradesh,Visakhapatnam,Submarine Museum,Museum,35,Museum Visakhapatnam Andhra Pradesh
+261,Andhra Pradesh,Visakhapatnam,Borra Caves,Cave,8,Cave Visakhapatnam Andhra Pradesh
+262,Andhra Pradesh,Visakhapatnam,War Memorial,War Memorial,74,War Memorial Visakhapatnam Andhra Pradesh
+263,Andhra Pradesh,Visakhapatnam,Indira Gandhi Zoological Park,Zoo,77,Zoo Visakhapatnam Andhra Pradesh
+264,Andhra Pradesh,Visakhapatnam,Matsyadarshini Aquarium,Aquarium,2,Aquarium Visakhapatnam Andhra Pradesh
+265,Andhra Pradesh,Visakhapatnam,Visakha Museum,Museum,35,Museum Visakhapatnam Andhra Pradesh
+266,Sikkim,Gangtok,Nathula Pass,Hill,22,Hill Gangtok Sikkim
+267,Sikkim,Pelling,Pemayangtse Monastery,Monastery,31,Monastery Pelling Sikkim
+268,Sikkim,Namchi,Char Dham,Religious Complex,45,Religious Complex Namchi Sikkim
+269,Sikkim,Gangtok,Rumtek Monastery,Monastery,31,Monastery Gangtok Sikkim
+270,Sikkim,Ravangla,Buddha Park,Park,41,Park Ravangla Sikkim
+271,Sikkim,Gangtok,Baba Harbhajan Singh Temple,Temple,62,Temple Gangtok Sikkim
+272,Sikkim,Gangtok,Tsomgo Lake,Lake,25,Lake Gangtok Sikkim
+273,Assam,Guwahati,Kamakhya Temple,Temple,62,Temple Guwahati Assam
+274,Assam,Kaziranga,Kaziranga National Park,National Park,36,National Park Kaziranga Assam
+275,Assam,Guwahati,Umananda Island,Island,24,Island Guwahati Assam
+276,Assam,Sivasagar,Sivasagar Sivadol,Temple,62,Temple Sivasagar Assam
+277,Assam,Majuli,Majuli Island,River Island,48,River Island Majuli Assam
+278,Assam,Manas,Manas National Park,National Park,36,National Park Manas Assam
+279,Assam,Hajo,Hayagriva Madhava Temple,Temple,62,Temple Hajo Assam
+280,Assam,Guwahati,Pobitora Wildlife Sanctuary,Wildlife Sanctuary,76,Wildlife Sanctuary Guwahati Assam
+281,Arunachal Pradesh,Tawang,Tawang Monastery,Monastery,31,Monastery Tawang Arunachal Pradesh
+282,Tripura,Agartala,Ujjayanta Palace,Palace,40,Palace Agartala Tripura
+283,Tripura,Dumboor,Dumboor Lake,Lake,25,Lake Dumboor Tripura
+284,Tripura,Unakoti,Unakoti Rock Carvings,Rock Carvings,49,Rock Carvings Unakoti Tripura
+285,Chhattisgarh,Bastar,Chitrakote Falls,Waterfall,75,Waterfall Bastar Chhattisgarh
+286,Nagaland,Dzükou Valley,Dzükou Valley,Valley,70,Valley Dzükou Valley Nagaland
+287,Puducherry,Puducherry,Promenade Beach,Beach,3,Beach Puducherry Puducherry
+288,Puducherry,Auroville,Auroville,Township,67,Township Auroville Puducherry
+289,Puducherry,Puducherry,Paradise Beach,Beach,3,Beach Puducherry Puducherry
+290,Andaman and Nicobar Islands,Port Blair,Cellular Jail,Landmark,26,Landmark Port Blair Andaman and Nicobar Islands
+291,Andaman and Nicobar Islands,Havelock Island,Radhanagar Beach,Beach,3,Beach Havelock Island Andaman and Nicobar Islands
+292,Andaman and Nicobar Islands,Neil Island,Bharatpur Beach,Beach,3,Beach Neil Island Andaman and Nicobar Islands
+293,Andaman and Nicobar Islands,Baratang Island,Limestone Caves,Natural Feature,37,Natural Feature Baratang Island Andaman and Nicobar Islands
+294,Daman and Diu,Diu,Naida Caves,Cave,8,Cave Diu Daman and Diu
+295,Daman and Diu,Diu,Diu Fort,Fort,17,Fort Diu Daman and Diu
+296,Jharkhand,Deoghar,Baba Baidyanath Temple,Temple,62,Temple Deoghar Jharkhand
+297,Jharkhand,Ranchi,Pahari Mandir,Temple,62,Temple Ranchi Jharkhand
+298,Bihar,Bodh Gaya,Mahabodhi Temple,Temple,62,Temple Bodh Gaya Bihar
+299,Bihar,Patna,Sanjay Gandhi Biological Park,Zoo,77,Zoo Patna Bihar
+300,Bihar,Patna,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,21,Gurudwara Patna Bihar
+301,Bihar,Patna,Budhha Smriti Park,Park,41,Park Patna Bihar
+302,Haryana,Gurugram,Kingdom of Dreams,Entertainment,15,Entertainment Gurugram Haryana
+303,Haryana,Gurugram,Ambience Mall,Mall,27,Mall Gurugram Haryana
+304,Haryana,Gurugram,DLF CyberHub,Commercial Complex,10,Commercial Complex Gurugram Haryana
+305,Delhi,New Delhi,Gurudwara Bangla Sahib,Gurudwara,21,Gurudwara New Delhi Delhi
+306,Uttarakhand,Kedarnath,Kedarnath,Temple,62,Temple Kedarnath Uttarakhand
+307,Uttar Pradesh,Noida,DLF Mall of India,Mall,27,Mall Noida Uttar Pradesh
+308,Uttar Pradesh,Greater Noida,The Grand Venice Mall,Mall,27,Mall Greater Noida Uttar Pradesh
+309,Karnataka,Bengaluru,Wonderla Amusement Park,Amusement Park,1,Amusement Park Bengaluru Karnataka
+310,Odisha,Bhubaneswar,Nandankanan Zoological Park,Zoo,77,Zoo Bhubaneswar Odisha
+311,Karnataka,Bengaluru,Orion Mall,Mall,27,Mall Bengaluru Karnataka
+312,Telangana,Hyderabad,Inorbit Mall Cyberabad,Mall,27,Mall Hyderabad Telangana
+313,Delhi,New Delhi,Jama Masjid,Mosque,33,Mosque New Delhi Delhi
+314,Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,62,Temple Rameswaram Tamil Nadu
+315,Uttar Pradesh,Greater Noida,Buddh International Circuit,Race Track,44,Race Track Greater Noida Uttar Pradesh
+316,Uttar Pradesh,Lucknow,Phoenix Palassio,Mall,27,Mall Lucknow Uttar Pradesh
+317,Kerala,Kochi,LuLu International Shopping Mall,Mall,27,Mall Kochi Kerala
+318,Delhi,New Delhi,Rail Museum,Museum,35,Museum New Delhi Delhi
+319,Meghalaya,Cherrapunji,Living Root Bridge,Natural Feature,37,Natural Feature Cherrapunji Meghalaya
+320,Gujarat,Gandhinagar,Akshardham,Temple,62,Temple Gandhinagar Gujarat
+321,Uttar Pradesh,Agra,Agra Fort,Fort,17,Fort Agra Uttar Pradesh
+322,Madhya Pradesh,Bhopal,Madhya Pradesh Tribal Museum,Museum,35,Museum Bhopal Madhya Pradesh
+323,Rajasthan,Jaipur,City Palace,Palace,40,Palace Jaipur Rajasthan
+324,Rajasthan,Jaipur,Albert Hall Museum,Museum,35,Museum Jaipur Rajasthan
