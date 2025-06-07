@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HotelAdapter"
+    >
+
+    <!-- Hotel Image -->
+    <ImageView
+        android:id="@+id/ivHotelImage"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background" />
+
+    <!-- Hotel Name -->
+    <TextView
+        android:id="@+id/tvHotelName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hotel Name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingTop="8dp"/>
+
+    <!-- Hotel Rating -->
+    <TextView
+        android:id="@+id/tvHotelRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating: 4.5"
+        android:textSize="14sp"
+        android:paddingTop="4dp"/>
+
+    <!-- Hotel Price -->
+    <TextView
+        android:id="@+id/tvHotelPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Price Level: $$"
+        android:textSize="14sp"
+        android:paddingTop="4dp"/>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Base.Theme.TravelGuide2" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--        &lt;!&ndash; <item name="colorPrimary">@color/my_light_primary</item> &ndash;&gt;-->
+<!--    </style>-->
+
+<!--    <style name="Theme.TravelGuide2" parent="Base.Theme.TravelGuide2" />-->
+<!--</resources>-->
+
+
+    <resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+
+
+
+<style name="Theme.TravelGuide2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+<!-- Primary brand color.-->
+
+<item name="colorPrimary">@color/Lavender</item>
+
+<item name="colorPrimaryVariant">@color/Lavender</item>
+
+<item name="colorOnPrimary">@color/white</item>
+
+<!-- Secondary brand color. -->
+
+<item name="colorSecondary">@color/teal_200</item>
+
+<item name="colorSecondaryVariant">@color/teal_700</item>
+
+    <item name="colorOnSecondary">@color/black</item>
+
+    <!-- Status bar color.-->
+
+
+
+    <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+</style>
+    </resources>

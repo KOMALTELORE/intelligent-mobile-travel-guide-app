@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TravelGuide2</string>
+    <string name="google_maps_key">YOUR GOOGLE PLACE API KEY</string>
+    <string name="delete_location">Delete location</string>
+</resources>

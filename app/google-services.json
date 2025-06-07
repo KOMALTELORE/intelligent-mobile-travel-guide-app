@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771779068366",
+    "project_id": "next-travel-app",
+    "storage_bucket": "next-travel-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771779068366:android:0dae521e3db1165102eb9f",
+        "android_client_info": {
+          "package_name": "com.example.travelguide2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqBcbIoIh34Rx7Q4G0HTQqkCtUn1M49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

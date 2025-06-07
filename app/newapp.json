@@ -1,0 +1,2277 @@
+[
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "India Gate",
+      "type": "War Memorial",
+      "image": "https://th.bing.com/th/id/OIP.aKCrn2ijUdwL5CPhWEWiwQHaJQ?w=223&h=279&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Humayun's Tomb",
+      "type": "Tomb",
+      "image": "https://th.bing.com/th/id/OIP.csFVFKQoaSR_WA1_vm4OVAHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Akshardham Temple",
+      "type": "Temple",
+      "image": "https://i.redd.it/20iuno1sah421.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Waste to Wonder Park",
+      "type": "Theme Park",
+      "image": "https://www.travelnags.com/upload/destinations/634d3c7c9aad5_entrance-to-waste-to-wonder-park.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Jantar Mantar",
+      "type": "Observatory",
+      "image": "https://www.themaharajaexpress.org/blog/wp-content/uploads/2017/05/Jantar-Mantar-1.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Chandni Chowk",
+      "type": "Market",
+      "image": "https://th.bing.com/th/id/R.6b2ae51b4e7244b1809762d2bf2a8c14?rik=OkB%2bc8tlwuLfmw&riu=http%3a%2f%2fwww.kanchanfashion.com%2fcdn%2fshop%2farticles%2f89d4980c-13f6-11ec-8f84-d3748427d977_1631471245193_1200x1200.jpg%3fv%3d1669099015&ehk=FIfcBDyaN4sIiCzr2rXgzLFxWbROCaHk84Sv7BEREYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Lotus Temple",
+      "type": "Temple",
+      "image": "https://pbs.twimg.com/media/E6fsf6bXoAARpBU.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Red Fort",
+      "type": "Fort",
+      "image": "https://th.bing.com/th/id/R.577d5b55c35d6ed1ea8bce64e724ff90?rik=W8pJHJzfQu8nGg&riu=http%3a%2f%2fimages.mapsofworld.com%2fallwonders%2fred-fort-night.jpg&ehk=YjDKKRAedpDlgvG1qFOUesjYedFVj%2bm1IQR1FzDbHKY%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Agrasen ki Baoli",
+      "type": "Stepwell",
+      "image": "https://amyscrypt.com/wp-content/uploads/2020/01/Agrasen-Ki-Baoli-Haunted-12.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Sunder Nursery",
+      "type": "Park",
+      "image": "https://thrillingtravel.in/wp-content/uploads/2023/04/Rose-garden-lakkarwala-burj-sunder-nursery.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Garden of Five Senses",
+      "type": "Park",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/32/8b/e9/nipunsagarofficial-5.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Lodhi Garden",
+      "type": "Park",
+      "image": "https://th.bing.com/th/id/OIP.bf45Tnn75qjePOj3eLqLMwHaD4?rs=1&pid=ImgDetMain"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "National Gallery of Modern Art",
+      "type": "Museum",
+      "image": "https://yometro.com/images/places/National-Gallery-Of-Modern-Art-Delhi.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "National Zoological Park",
+      "type": "Zoo",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/4c/7c/fa/elephant.jpg?w=1200&h=1200&s=1"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "Qutub Minar",
+      "type": "Monument",
+      "image": "https://res.cloudinary.com/appealingindia/image/upload/f_jpg/v1535697669/qutub_minar_history.jpg"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "name": "National Science Centre",
+      "type": "Science",
+      "image": "https://www.hlimg.com/images/things2do/738X538/l_1525068662t.JPG"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Marine Drive",
+      "type": "Promenade",
+      "image": "https://static.toiimg.com/photo/msid-44855708,width-96,height-65.cms"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Gateway of India",
+      "type": "Monument",
+      "image": "https://image3.mouthshut.com/images/imagesp/925740587s.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "type": "Museum",
+      "image": "https://2.bp.blogspot.com/-vohCnIrAfzI/W4Duy5FLZ8I/AAAAAAAAAQU/GKCenjbAn-U_O3xCDa-JVMgKUcZwj3WIACLcBGAs/w1200-h630-p-k-no-nu/2.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Sanjay Gandhi National Park",
+      "type": "National Park",
+      "image": "https://preview.redd.it/0ef0jiyowtq41.png?auto=webp&s=49f078b4991a4ee5a20d132f2c8e1384cd7634d3"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Siddhivinayak Temple",
+      "type": "Temple",
+      "image": "https://www.mapsofindia.com/ci-moi-images/my-india/siddhivinayak-temple-mumbai.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Mahalaxmi Temple",
+      "type": "Temple",
+      "image": "https://im.whatshot.in/img/2020/Jul/mahalaxmi-temple-kolhapur-1595253555.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Haji Ali Dargah",
+      "type": "Religious Shrine",
+      "image": "https://i.pinimg.com/originals/0b/41/47/0b414714901b60030ee774e7579e0749.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Chowpatty Beach",
+      "type": "Beach",
+      "image": "https://image.arrivalguides.com/1230x800/02/2fc81ae6af32d0266cd87f4d48462771.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Essel World",
+      "type": "Amusement Park",
+      "image": "https://th.bing.com/th/id/R.fb01dc533a50addf16be5410f087c2d7?rik=3T22ntNJQDsuPQ&riu=http%3a%2f%2fwww.mapsofindia.com%2fmumbai%2fplaces-of-interest%2fimages%2fessel-world.jpg&ehk=vinGPRJ0%2baUHXmtoiAn1nyA5CTHJ1wR8VinYX34W8As%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Mumbai",
+      "name": "Elephanta Caves",
+      "type": "Monument",
+      "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/71/ae/1f.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Lonavala",
+      "name": "Imagicaa",
+      "type": "Amusement Park",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/bannerpark1_20200717163309.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "name": "Bangalore Palace",
+      "type": "Palace",
+      "image": "https://www.adotrip.com/public/images/areas/master_images/5c6ce85950820-Bangalore-Palace_Attractions.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "name": "Lalbagh Botanical Garden",
+      "type": "Botanical Garden",
+      "image": "https://www.explorebees.com/uploads/Lalbagh%20Botanical%20Garden.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "name": "Cubbon Park",
+      "type": "Park",
+      "image": "https://www.postoast.com/wp-content/uploads/2021/09/Cubbon-Park-Aerial-view.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "name": "Vidhana Soudha",
+      "type": "Government Building",
+      "image": "https://bpac.in/wp-content/uploads/2021/10/Vidhana-Soudha-at-night-1024x576.png"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "name": "ISKCON Temple Bangalore",
+      "type": "Temple",
+      "image": "https://www.holidify.com/images/attr_wiki/compressed/attr_wiki_216.jpg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Charminar",
+      "type": "Landmark",
+      "image": "https://img.staticmb.com/mbcontent/images/crop/uploads/2022/9/Charminar-Hyderabad_0_1200.jpg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Golconda Fort",
+      "type": "Fort",
+      "image": "https://th.bing.com/th/id/R.67efcb7734d2bb4f7f2401ac87868276?rik=uU%2fOZQyXe5wdtg&riu=http%3a%2f%2fwww.thesoultrails.com%2fwp-content%2fuploads%2f2018%2f11%2fGolconda-Fort-Hyderabad-Monuments-Heritage-3.jpg&ehk=Bh6YeDuKuhsp7poFXTT%2biB%2f8e3cmcl08%2bVey9wj7C%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Hussain Sagar Lake",
+      "type": "Lake",
+      "image": "https://img.staticmb.com/mbcontent/images/uploads/2022/9/hussain-sagar.jpg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Ramoji Film city",
+      "type": "Film Studio",
+      "image": "https://th.bing.com/th/id/R.7e79cd573ef55fbd0ed34e8bfa2042b2?rik=tR80bWMZpw5LUQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-0RKwB24B09w%2fUYkZUgyhFXI%2fAAAAAAAAAK4%2fPvunztt_ETY%2fs1600%2framoji-film-city.jpg&ehk=yZFEQh5jf1DKIzXhywnugcG0Li%2bnMjstRrZCgnBh%2bNM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Salar Jung Museum",
+      "type": "Museum",
+      "image": "https://live.staticflickr.com/1651/24064828780_edb02582d0_b.jpg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Qutb Shahi Tombs",
+      "type": "Tombs",
+      "image": "https://www.hyderabadzone.com/wp-content/uploads/2022/09/Qutub-Shahi-Tombs.jpg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Birla Mandir",
+      "type": "Temple",
+      "image": "https://img.veenaworld.com/wp-content/uploads/2021/05/Birla-Mandir-Hyderabad-Timings-History-How-to-Visit.jpeg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Chowmahalla Palace",
+      "type": "Palace",
+      "image": "https://3.bp.blogspot.com/-KDfrjv5pAR0/WGi3UMONPyI/AAAAAAAAJCA/k7Asko5pC-MBdHRJlZJ5QOtSNZXKGEF4gCLcB/s1600/11.jpg"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Nehru Zoological Park",
+      "type": "Zoo",
+      "image": "https://img.veenaworld.com/wp-content/uploads/2021/05/Zoo-Park-Hyderabad-Timings-Ticket-Price-How-to-Visit.jpg?imwidth=1080"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Lumbini Park",
+      "type": "Park",
+      "image": "https://wallpapers.com/images/hd/hyderabad-lumbini-park-1rvnx5ptrh2o0si8.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Victoria Memorial",
+      "type": "Museum",
+      "image": "https://images.squarespace-cdn.com/content/v1/51a39504e4b093105c265c24/1536533002204-9G3H2P3HD70022LUQ692/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/victoria-memorial-gardens.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Howrah Bridge",
+      "type": "Bridge",
+      "image": "https://th.bing.com/th/id/R.00e889cc31499ebbef9c3b7cf9600cbd?rik=IuRT7O1rICILqA&riu=http%3a%2f%2fneptuneholidays.com%2fblog%2fimages%2fblog%2fhowrah-bridge-attraction-of-kolkata.jpg&ehk=UAXJEI4qvS9E9RGgqh9dh5MvKMBLqhmHy12hHACGZjw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Indian Museum",
+      "type": "Museum",
+      "image": "https://4.bp.blogspot.com/-SHCx8ZbcN-g/UXf9koaUjsI/AAAAAAAARKc/9u9Bno4KQcA/s1600/indianmuseum-01.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Dakshineswar Kali Temple",
+      "type": "Temple",
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/v1434973019/Domestic%20Holidays/Dakshineshwar_Kali_Temple.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Kalighat Kali Temple",
+      "type": "Temple",
+      "image": "https://kolkatatourism.travel/images/places-to-visit/headers/kalighat-kali-temple-kolkata-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Eden Gardens",
+      "type": "Cricket Ground",
+      "image": "https://media.crictracker.com/media/attachments/1695210343290_Eden-Gardens,-Kolkata.jpeg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Alipore Zoological Gardens",
+      "type": "Zoo",
+      "image": "https://www.bing.com/images/blob?bcid=S9SiO1YJNUkI4ymWb.b42wjDk9YW.....7Y"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Science city Kolkata",
+      "type": "Science",
+      "image": "https://kolkatatourism.travel/images/places-to-visit/headers/science-city-kolkata-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Belur Math",
+      "type": "Site",
+      "image": "https://kolkatatourism.travel/images/places-to-visit/headers/belur-math-kolkata-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "name": "Marble Palace",
+      "type": "Palace",
+      "image": "https://kolkatatourism.travel/images/tourist-places/marble-palace-mansion-kolkata/marble-palace-mansion-kolkata-tourism-holidays-closed-on-timings.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Calangute Beach",
+      "type": "Beach",
+      "image": "https://hikerwolf.com/wp-content/uploads/2020/05/goa-beaches-1202x800.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Basilica of Bom Jesus",
+      "type": "Church",
+      "image": "https://indiano.travel/wp-content/uploads/2022/06/Tourists-in-front-of-The-Basilica-of-Bom-Jesus-a-famous-landmark-located-in-Old-Goa..jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Fort Aguada",
+      "type": "Fort",
+      "image": "https://goa-tourism.org.in/images/places-to-visit/headers/fort-aguada-goa-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Dudhsagar Falls",
+      "type": "Waterfall",
+      "image": "https://i.imgur.com/vmKN9Uy.png"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Anjuna Beach",
+      "type": "Beach",
+      "image": "https://pixahive.com/wp-content/uploads/2020/09/Beauty-of-Anjuna-Beach-in-Goa-95521-pixahive.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Chapora Fort",
+      "type": "Fort",
+      "image": "https://indivue.files.wordpress.com/2020/04/chapora-fort-north-goa-india-photo-bby-indivuecom-.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Se Cathedral",
+      "type": "Church",
+      "image": "https://live.staticflickr.com/5073/5865207567_46b4a47b9d_b.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Baga Beach",
+      "type": "Beach",
+      "image": "https://www.tripsavvy.com/thmb/OrVflvJk5fXQJsw5u1UJFxIcXQI=/2122x1413/filters:fill(auto,1)/Gettyimages-dv1170129-5b2978f3ff1b78003721993b.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Arambol Beach",
+      "type": "Beach",
+      "image": "https://i.postimg.cc/B6TQ2qJF/Arambol-Beach.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Palolem Beach",
+      "type": "Beach",
+      "image": "https://im.whatshot.in/img/2020/Oct/istock-482535663-1602057173.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Colva Beach",
+      "type": "Beach",
+      "image": "https://media.tripinvites.com/places/goa/colva-beach/colva-beach-front-view-featured.jpg"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Miramar Beach",
+      "type": "Beach",
+      "image": "https://th.bing.com/th/id/R.4d943b980ca4684e9a43a6d5fe67c669?rik=SAesy%2bjMFFCckQ&riu=http%3a%2f%2fwww.beach-on-map.com%2fimg%2f13%2findia-goa-miramar-beach-orig.jpg&ehk=poBdiSCtfVp9H43AjwcYMuW5uzKBi1Y0sXmxLT6vXxs%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Aguada Beach",
+      "type": "Beach",
+      "image": "https://th.bing.com/th/id/R.a2efd79513b8432620534a707e48754a?rik=DTlrZ4XqnT8suQ&riu=http%3a%2f%2fwww.indiaprofile.com%2fblog%2fwp-content%2fuploads%2f2013%2f10%2fFort-Aguada-Beach-Resort-Goa.jpg&ehk=TTNI113KmQlOVuUl6bATkw5zk9McJWDUnNgWAlndS%2bk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "name": "Dr. Salim Ali Bird Santuary",
+      "type": "Bird Sanctuary",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/dr-salim-ali-bird-sanctuary-goa-goa-1-attr-hero?qlt=82&ts=1726735361333"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "name": "Sabarmati Ashram",
+      "type": "Historical",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_778191649_20191220145151_20191220145212.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Dwarka",
+      "name": "Dwarkadhish Temple",
+      "type": "Temple",
+      "image": "https://4.bp.blogspot.com/-SCRx4-4Wis8/WJCK_hHOwiI/AAAAAAAAA4s/DS_Lg4H6cHgpslvXoLJ2NYAtwM6MvmE4gCLcB/s1600/dwarka%2B1.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Junagadh",
+      "name": "Gir National Park",
+      "type": "National Park",
+      "image": "https://static2.tripoto.com/media/filter/nl/img/1942819/TripDocument/1588420605_capture.png"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Bhuj",
+      "name": "White Desert",
+      "type": "Site",
+      "image": "https://hblimg.mmtcdn.com/content/hubble/img/Bhujimage/mmt/activities/m_white_desert_of_kutch_bhuj_3_l_667_1000.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Vadodara",
+      "name": "Laxmi Vilas Palace",
+      "type": "Palace",
+      "image": "https://th.bing.com/th/id/R.e0585ced6fdbbe6b0fabb6cfb7a7f75a?rik=ej9KNrs57NG28g&riu=http%3a%2f%2fgujaratdarshanguide.com%2fwp-content%2fuploads%2f2021%2f06%2fLakshmi-Vilas-Palace-1-1024x597.jpg&ehk=6gFFtaNj8L%2bq4Bt0Uy07gVP8DVYJziykCVf7dPALFPk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Somnath",
+      "name": "Somnath Temple",
+      "type": "Temple",
+      "image": "https://cdn.dollsofindia.com/images/p/photography/somnath-temple-RO58_l.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Rann of Kutch",
+      "name": "Rann Utsav",
+      "type": "Cultural",
+      "image": "https://www.adotrip.com/public/images/events/master_images/5e2ea870178f7-Rann_Utsav_Desert.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Kevadia",
+      "name": "Statue of Unity",
+      "type": "Monument",
+      "image": "https://www.indianholidaytrip.com/upload/static/images/Statue%20Of%20Unity%208%20Augt_-min.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Gandhinagar",
+      "name": "Dandi Kutir",
+      "type": "Museum",
+      "image": "https://media1.thrillophilia.com/filestore/o9elkr6th6emaa2mzs3emaia8mgv_1581167155_12-26-.jpg?w=1440&dpr=2"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "name": "Sabarmati Riverfront",
+      "type": "Urban Development Project",
+      "image": "https://sabarmatiriverfront.com/wp-content/uploads/2020/06/slider3-banner-img-new.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "name": "Manek Chowk",
+      "type": "Market",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/Manekchok_20180105205625.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "name": "Kankaria Lake",
+      "type": "Lake",
+      "image": "https://i.ytimg.com/vi/3kXocFp9KBQ/maxresdefault.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "name": "Science city",
+      "type": "Science",
+      "image": "https://img.veenaworld.com/wp-content/uploads/2021/05/Have-Some-Fun-Time-with-Science-at-the-Science-city-Ahmedabad-scaled.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "name": "Hawa Mahal",
+      "type": "Palace",
+      "image": "https://th.bing.com/th/id/R.36e2aa300809c8887585505355c44b1d?rik=I1ogCvkSw%2fYW8w&riu=http%3a%2f%2f1.bp.blogspot.com%2f-s3iit77Tqgw%2fVWmmXSIITCI%2fAAAAAAAACF8%2fdDLL6xduWfQ%2fs1600%2fHawa%2bmahal.jpg&ehk=cQV1I46%2bJpM9K2kJC9xamUbLgCz1QFP0NgtDcBBdcv4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "name": "city Palace",
+      "type": "Palace",
+      "image": "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2019/05/city-Palace-Udaipur.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaisalmer",
+      "name": "Jaisalmer Fort",
+      "type": "Fort",
+      "image": "https://pixahive.com/wp-content/uploads/2020/09/Jaisalmer-fort-Rajasthan-72384-pixahive.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Sawai Madhopur",
+      "name": "Ranthambore National Park",
+      "type": "Wildlife Sanctuary",
+      "image": "https://pickyourtrail.com/blog/wp-content/uploads/2020/05/Wikimedia-2-scaled.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Pushkar",
+      "name": "Pushkar Lake",
+      "type": "Temple",
+      "image": "https://mediaim.expedia.com/destination/2/6805b7d7f663142d7d0e392f24166910.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Ajmer",
+      "name": "Ajmer Sharif Dargah",
+      "type": "Shrine",
+      "image": "https://astrotalk.com/astrology-blog/wp-content/uploads/2019/11/dargah-2.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "name": "Mehrangarh Fort",
+      "type": "Fort",
+      "image": "https://img.veenaworld.com/wp-content/uploads/2021/10/Mehrangarh.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Chittorgarh",
+      "name": "Chittorgarh Fort",
+      "type": "Fort",
+      "image": "https://getsready.com/wp-content/uploads/2016/03/Chittorgarh-fort-14.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Mount Abu",
+      "name": "Dilwara Temples",
+      "type": "Temple",
+      "image": "https://www.tusktravel.com/blog/wp-content/uploads/2022/12/temples-of-Dilwara-1.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Bikaner",
+      "name": "Junagarh Fort",
+      "type": "Fort",
+      "image": "https://th.bing.com/th/id/R.182af7c67a7bf46121ee2c45b59af868?rik=oKvBjWM83JQ%2f9A&riu=http%3a%2f%2fwww.thehistoryhub.com%2fwp-content%2fuploads%2f2014%2f04%2fJunagarh-Fort-Entrance.jpg&ehk=MwHIsJVLXd7WWo8juaiVMZn%2bDTzLFz6gZo9UyaBtRxs%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "name": "Amber Fort",
+      "type": "Fort",
+      "image": "https://www.tripsavvy.com/thmb/Aedpr55M6p6Fr-WzmeGlcEzm6j4=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/Gettyimages-469788052-4010d53537c64802a437ad24bd0f1345.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "name": "Jaigarh Fort",
+      "type": "Fort",
+      "image": "https://th.bing.com/th/id/R.265a45f28ee25c23fda422a0beace5b6?rik=EkXdLCOZWchIzA&riu=http%3a%2f%2fwww.thehistoryhub.com%2fwp-content%2fuploads%2f2014%2f04%2fJaigarh-Fort.jpg&ehk=Wvw9dncGMwEO9tH7taoKE%2fi%2bWqwuquEswlvJIpz6frM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "name": "Lake Pichola",
+      "type": "Lake",
+      "image": "https://indiano.travel/wp-content/uploads/2022/05/Beautiful-View-of-Lake-Pichola-with-Jag-Mandir.jpg"
+    },
+    {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "name": "Golden Temple (Harmandir Sahib)",
+      "type": "Religious Site",
+      "image": "https://images.alphacoders.com/541/541010.jpg"
+    },
+    {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "name": "Jallianwala Bagh",
+      "type": "Memorial",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2019/04/Jallianwala-Bagh-1-1024x683.jpg"
+    },
+    {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "name": "Wagah Border",
+      "type": "Border Crossing",
+      "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/01/13140051/Wagah-border.jpg"
+    },
+    {
+      "state": "Punjab",
+      "city": "Chandigarh",
+      "name": "Rock Garden",
+      "type": "Sculpture Garden",
+      "image": "https://i.pinimg.com/originals/7a/23/2f/7a232f584a1cb4e2743329383c742096.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Alappuzha",
+      "name": "Alappuzha Beach",
+      "type": "Beach",
+      "image": "https://2.bp.blogspot.com/-g6kvhBuWts8/WMT1ysqfPAI/AAAAAAABRu4/e684-uQyLagGWGxWDgH-fcNEbtWv5S-yQCLcB/s1600/alleppey%2Bbeach%2Bkerala%2Btourism%2Bbest%2Bholiday.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Munnar",
+      "name": "Munnar Tea Gardens",
+      "type": "Scenic Area",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/Munnar66_20171216205538.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kochi",
+      "name": "Fort Kochi",
+      "type": "Site",
+      "image": "https://static2.tripoto.com/media/transfer/img/OgData/1560498971_kochi_fort.png"
+    },
+    {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "name": "Padmanabhaswamy Temple",
+      "type": "Temple",
+      "image": "https://assets.gqindia.com/photos/5f0ec391532fa7831d9d6e81/16:9/w_2560%2Cc_limit/Everything-you-need-to-know-about-the-world's-richest-temple-Sree-Padmanabhaswamy-and-its-treasures-worth-Rs-1%2C00%2C000-crore.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "name": "Kozhikode Beach",
+      "type": "Beach",
+      "image": "https://img.onmanorama.com/content/dam/mm/en/travel/travel-news/images/2021/7/1/kozhikode-beach-main.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Wayanad",
+      "name": "Wayanad Wildlife Sanctuary",
+      "type": "Wildlife Sanctuary",
+      "image": "https://th.bing.com/th/id/OIP.fL7-iD6ydfvo_wkfm2S0twHaDt?rs=1&pid=ImgDetMain"
+    },
+    {
+      "state": "Kerala",
+      "city": "Thekkady",
+      "name": "Periyar National Park",
+      "type": "National Park",
+      "image": "https://www.journeysinternational.com/wp-content/uploads/2019/04/periyar-national-park-india.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kumarakom",
+      "name": "Kumarakom Bird Sanctuary",
+      "type": "Bird Sanctuary",
+      "image": "https://experiencekerala.in/image-uploads/1467177532.5_1.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Varkala",
+      "name": "Varkala Beach",
+      "type": "Beach",
+      "image": "https://mediaim.expedia.com/destination/1/d1aed51b8a6db885c7e1d78960420513.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Bekal",
+      "name": "Bekal Fort",
+      "type": "Fort",
+      "image": "https://cdn.pixabay.com/photo/2015/01/31/14/09/bekal-618528_1280.jpg"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kovalam",
+      "name": "Kovalam Beach",
+      "type": "Beach",
+      "image": "https://th.bing.com/th/id/OIP.WIOhhx1eobLlGWJhlGqELQHaFA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kannur",
+      "name": "St. Angelo Fort",
+      "type": "Fort",
+      "image": "https://th.bing.com/th/id/OIP.SN206Gmhq4ZtCqHMzXAK3QHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "state": "Kerala",
+      "city": "Nelliyampathy",
+      "name": "Seethargundu Viewpoint",
+      "type": "Viewpoint",
+      "image": "https://th.bing.com/th/id/OIP.ReRg5jeSTyNPZ64o7dotxQHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kochi",
+      "name": "Kerala Folklore Museum",
+      "type": "Cultural",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi_zawd40ouRkFL4ISQ7b2H5fwSY1TIkakkg&s"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kochi",
+      "name": "Wonderla Amusement Park",
+      "type": "Amusement Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8G44XlAeLHSXKivJ-vUl8uoB3TRdQcJ45A&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Mysore",
+      "name": "Mysore Palace",
+      "type": "Palace",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1fz9TL3JPr3V33ZPUluEKWjjADcVNpSLOQ&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Hampi",
+      "name": "Hampi Archaeological Ruins",
+      "type": "Site",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBRCZdph0hyRqbWJPf7ZuIe3Js-ehhKE8asw&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Coorg",
+      "name": "Abbey Falls",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7JUIcdEQeoTUR34Hhl3bWXNb5TSYEqs1zOQ&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Gokarna",
+      "name": "Om Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXF2tquTID7m9XNYdlxWofsJJBuTjUesV9xw&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Chikmagalur",
+      "name": "Mullayanagiri",
+      "type": "Mountain Peak",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQVuIcqUQP99DI33ZxonYBAMCTNPaAlsAVw&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Badami",
+      "name": "Badami Cave Temples",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQA7PD2sG2bgJMdOtrtuxevdBna7c93AC2sA&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Shivamogga",
+      "name": "Jog Falls",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-rgYDD9hzmBK8YiF5V2XOxn3jz8pDDAxpg&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Mangalore",
+      "name": "Panambur Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrmIWRQ-keCATXgeTaZU1Y0IIuV8XA0bnIA&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Murudeshwar",
+      "name": "Murudeshwar Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnW1FOJwpYYrNH29YWBYpnkJzLLKJHZPajg&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bijapur",
+      "name": "Gol Gumbaz",
+      "type": "Mausoleum",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/gol-gumbaz-bijapur-karnataka-2-attr-hero?qlt=82&ts=1727414990869"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bandipur",
+      "name": "Bandipur National Park",
+      "type": "National Park",
+      "image": "https://www.bandipurnationalparkonline.in/images/bandipur-place.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Halebidu",
+      "name": "Halebidu Hoysaleswara Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxZM3E53O5fDoD5Lo0MwPh8Y00mXFSRxz4g&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Pune",
+      "name": "Shaniwar Wada",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJuXbWP__2glGbftEvBZd4WwzzT9b_Iqytdg&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Aurangabad",
+      "name": "Ajanta Caves",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4r17sSJ9EqH6tdmmYjmbpbvgQuyJEwUMSJA&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Nashik",
+      "name": "Sula Vineyards",
+      "type": "Vineyard",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3ORieBPgoKgECLl7vwPMd6raDJjjpRHw4A&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Shirdi",
+      "name": "Sai Baba Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfytcNBLYJISbMtGJboj5CrunmUyn3xB5WJg&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Alibaug",
+      "name": "Alibaug Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGJvdUxetrbHMLs29hfhYwNieO5WBKDVrKw&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Ratnagiri",
+      "name": "Ganapatipule Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREPKG5xiA-5k17v7vwZMb9x--RKKkxJkLcw&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Nagpur",
+      "name": "Deekshabhoomi",
+      "type": "Monument",
+      "image": "https://www.citybit.in/wp-content/uploads/2023/09/Deekshabhoomi.jpg"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Kolhapur",
+      "name": "Mahalakshmi Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXutYCa1ODMH8j1k7qMUZRN7Expj9xdqJBg&s"
+    },
+    {
+      "state": "Maharastra",
+      "city": "Lonavala",
+      "name": "Karla Caves",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHOsGWDRAhmQRxCgsSinb-TSAgIWEAqW7ZFg&s"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Tarkarli",
+      "name": "Tarkarli Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRr0PXoHF6fseK_MKlRrZV183zgC-ltOzJaQ&s"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Satara",
+      "name": "Kaas Plateau",
+      "type": "Valley",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw4Yc_w0cGEH3r3xDAV-CM3J3oq0B6OmGgQ&s"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Matheran",
+      "name": "Echo Point",
+      "type": "Viewpoint",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJTf-4q48SwBzz_GvMC_dHZt0_97murWcYQ&s"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ajanta",
+      "name": "Ellora Caves",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_-51TaiBTUYzXwNI653-jNZ9yED_aMtfDg&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Khajuraho",
+      "name": "Khajuraho Group of Monuments",
+      "type": "Temples",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6OOovQV_R23pa6x1QxhUMG-kH6V3rY5x1A&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "name": "Sanchi Stupa",
+      "type": "Monument",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRan-nAfr5UR54NZlvdmsIKcItwLGfgsgmVkg&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "name": "Rajwada Palace",
+      "type": "Palace",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBgsQLzSqB7W9lBFpi3yi78fNcb1gGVKX6Q&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "name": "Gwalior Fort",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvxDgJl65ZRmEK3AwvgU2X7Y8bEBSuhZ37A&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "name": "Mahakaleshwar Jyotirlinga",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pWSBtpUQ2NMMR1oNiLWziKhl7KsKg5IPNQ&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "name": "Dhuandhar Falls",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqbJugWsjZW1ZnXxNuyOAPCT5RurTYE_Dvg&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Pachmarhi",
+      "name": "Bee Falls",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQYpwhxJ89LzK7F3I34r0mV8uQuQqZqkRdg&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Kanha",
+      "name": "Kanha National Park",
+      "type": "Wildlife Sanctuary",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmS9zE6MFtA21M8nqVTdI4wbNS-QQZhqPGkA&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Bandhavgarh",
+      "name": "Bandhavgarh National Park",
+      "type": "National Park",
+      "image": "https://www.bandhavgarhmeadows.com/wp-content/uploads/2023/08/bandhavgarh-jeep-safari.jpg"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Orchha",
+      "name": "Orchha Fort",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3m4gjDzSQq4U5AT686Q8F4ljfdXVltPJDA&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Mandu",
+      "name": "Jahaz Mahal",
+      "type": "Site",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW66SDb222mzno6u5Hdcvtg9RWmitlINieWA&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Bhimbetka",
+      "name": "Bhimbetka Rock Shelters",
+      "type": "Prehistoric Site",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqPXu7-tD6POjUziwImvRGwvc928LUjhT2g&s"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Amarkantak",
+      "name": "Narmada Udgam Temple",
+      "type": "Temple",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/2f/ae/0b/narmada-udgam-temple.jpg"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Chitrakoot",
+      "name": "Chitrakoot Falls",
+      "type": "Waterfall",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/44/c5/49/chitrakoot-falls.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Shimla",
+      "name": "The Ridge",
+      "type": "Scenic Point",
+      "image": "https://www.trawell.in/admin/images/upload/531957519Ridge_Main.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Manali",
+      "name": "Solang Valley",
+      "type": "Valley",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b2/79/37/solang-valley-manali.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "dalhousie",
+      "name": "Dalai Lama Temple",
+      "type": "Temple",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b2/79/37/solang-valley-manali.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Dalhousie",
+      "name": "Khajjiar Lake",
+      "type": "Lake",
+      "image": "https://mediaim.expedia.com/destination/2/2dcb78c76e5c376bd4d61eb326b9aa5c.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Spiti Valley",
+      "name": "Key Monastery",
+      "type": "Monastery",
+      "image": "https://www.exoticmiles.com/wp-content/uploads/2020/06/Key-Monastery.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Kullu",
+      "name": "Great Himalayan National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdq87h8AJkNGOdH4obCFmgOPRvHZDh5edgw&s"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Chamba",
+      "name": "Chamera Lake",
+      "type": "Lake",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkb4Z3yOGSXYTxpotUC9ON2r5EwEMyG1aIXw&s"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Kinnaur",
+      "name": "Sangla Valley",
+      "type": "Valley",
+      "image": "https://www.india.com/wp-content/uploads/2018/08/Sangla-Valley.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Kangra",
+      "name": "Kangra Fort",
+      "type": "Fort",
+      "image": "https://hpgeneralstudies.com/wp-content/uploads/2020/04/kangra-fort.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Palampur",
+      "name": "Tea Gardens",
+      "type": "Tea Plantation",
+      "image": "https://zyanna.com/cdn/shop/articles/zyanna-the-beauty-of-indian-tea-gardens-a-visual-symphony-of-nature-and-culture.jpg?v=1718643706"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Mandi",
+      "name": "Prashar Lake",
+      "type": "Lake",
+      "image": "https://media.moxtain.com/trekking/prashar-lake-trek/prashar-lake-camping.jpeg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Bir Billing",
+      "name": "Paragliding Site",
+      "type": "Adventure Sport",
+      "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/13/e78cc0962931b63936d1631693d812af_1000x1000.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "McLeod Ganj",
+      "name": "Triund Trek",
+      "type": "Trekking",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDGq8E_fu-eJDQ1Xm5nNYn8My70Pn-e8O0Bw&s"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Manikaran",
+      "name": "Manikaran Sahib",
+      "type": "Gurudwara",
+      "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2020/01/Generic-1-9.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Narkanda",
+      "name": "Hatu Peak",
+      "type": "Viewpoint",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUvEkUPCKYEn2pLtRTI2SKBsb5QJ_A7MQM-g&s"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Barot",
+      "name": "Barot Valley",
+      "type": "Valley",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFUKfrGcRsS70avfY26bZJcenSQ6rRQOMgQ&s"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Shoja",
+      "name": "Serolsar Lake",
+      "type": "Lake",
+      "image": "https://i0.wp.com/crossroadadventure.com/wp-content/uploads/2020/12/LRM_EXPORT_635821070678497_20181231_111004351-1.jpg?resize=1380%2C920&ssl=1"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Kufri",
+      "name": "Kufri Fun World",
+      "type": "Ski Resort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpijvZlZ_Awk2QHwSDwqgPCrh9tvw_JW2Xg&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Nainital",
+      "name": "Naini Lake",
+      "type": "Lake",
+      "image": "https://www.google.com/imgres?q=Naini%20Lake%0D%0A&imgurl=https%3A%2F%2Fwww.swantour.com%2Fblogs%2Fwp-content%2Fuploads%2F2018%2F12%2FNainital-Lake.jpg&imgrefurl=https%3A%2F%2Fwww.swantour.com%2Fblogs%2Fnaini-lake-one-of-the-best-tourist-attractions-in-nainital-uttarakhand%2F&docid=AN2V2E2lKW7wzM&tbnid=OiTGi2xzwUJQnM&vet=12ahUKEwj56v2c77uMAxWcna8BHcICNbUQM3oECBUQAA..i&w=780&h=585&hcb=2&ved=2ahUKEwj56v2c77uMAxWcna8BHcICNbUQM3oECBUQAA"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Rishikesh",
+      "name": "Laxman Jhula",
+      "type": "Suspension Bridge",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvxlbBVSF1w70N4StdRQ48iW1FEJnSopUCtw&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Haridwar",
+      "name": "Har Ki Pauri",
+      "type": "Ghat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcngi0XatfColS_dTzKTHU0nIKsEanMB5WA&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Dehradun",
+      "name": "Robber's Cave",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GL2moq8asQ6zR4hVMMe1v1kjkcGqbq-nBQ&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Mussoorie",
+      "name": "Kempty Falls",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLO3OAh3BrRqSfwtR0R_ySHBsHJ9oX2WoteQ&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Auli",
+      "name": "Auli Ski Resort",
+      "type": "Ski Resort",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115829220.jpg?k=024742f5b0f49c5c22b078de76a23e9225ac5c88936f535551b31917d2749574&o=&hp=1"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Badrinath",
+      "name": "Badrinath Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAFg_VliW8fGeNDwbo79qBd4ZIMgawn_rDQ&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Almora",
+      "name": "Binsar Wildlife Sanctuary",
+      "type": "Wildlife Sanctuary",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKG0q_OgOym12ZUjfffoOU6IWUI_jnpXo9Q&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Ranikhet",
+      "name": "Chaubatia Gardens",
+      "type": "Orchard",
+      "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/16/7afa2709150d1ac16e687b90748e4108_1000x1000.jpg"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Jim Corbett",
+      "name": "Jim Corbett National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPU1li61QgTyhFp6wdKdLypGpPv-jxj6QPA&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Uttarkashi",
+      "name": "Gangotri Temple",
+      "type": "Temple",
+      "image": "https://holyhimalayayatra.com/img/breadcrumb/gangotri-banner.jpg"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Chopta",
+      "name": "Tungnath Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpiUdczCpnhRLjpc_fEIcX4pJaPX_ouinH2ObLlBt-MtuNmz4VSTfABfFMTDVi3uB3Oo&usqp=CAU"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Joshimath",
+      "name": "Valley of Flowers",
+      "type": "National Park",
+      "image": "https://static2.tripoto.com/media/filter/tst/img/15546/TripDocument/1443540252_1.jpg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "name": "Taj Mahal",
+      "type": "Mausoleum",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaj54GaAVLbNwZQWQdtocggZ8vkZLf5h71A&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "name": "Kashi Vishwanath Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfECCuNEGb66nM-8EzGzAJDNX1KqlqTuBLg&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "name": "Bara Imambara",
+      "type": "Monument",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZCcXhVyLeXM4sDqSW7dFXfFwV86YLKWdr3A&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "name": "Krishna Janmabhoomi",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAi0JzemUmnleznim-7OcM963L19Ag0Xa1Mg&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Ayodhya",
+      "name": "Ram Janmabhoomi",
+      "type": "Religious Site",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoDLm0iuh634ylm1q2CDSX52Oj1bqnbaouhg&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Vrindavan",
+      "name": "Banke Bihari Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfOoJQLTcishq08RVF1W4ECV_sMEsDc5pKQ&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Allahabad",
+      "name": "Triveni Sangam",
+      "type": "Confluence",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8rzzr1IQY1JcKOZWycSQXL3Aq_0abDJMJ2A&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "name": "Jhansi Fort",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdGRtm7x1s5zfrWOBwPFD1i0NRlP1fU3qVbg&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Sarnath",
+      "name": "Dhamek Stupa",
+      "type": "Monument",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqXzA-eFmuxGCons3z1r0rb6Et0__e6cohw&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Fatehpur Sikri",
+      "name": "Buland Darwaza",
+      "type": "Monument",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAp6SlkDxOJwiXxCv6MQlr07EadJ8PE1_Yg&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "name": "Okhla Bird Sanctuary",
+      "type": "Bird Sanctuary",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoe3mTfp1VvXWzfDZlt-QCluEZPeA9BCdNA&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Aligarh",
+      "name": "Aligarh Fort",
+      "type": "Fort",
+      "image": "https://www.antilogvacations.com/images/Packages/Domestic/NorthIndia/Leisure-Standard-NorthIndia-DiscoverUttarPradesh-4N-5D-at26999PerPerson-INR.jpg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "name": "Augarnath Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGoVGtRHUq0GFZfaJMoS5gPSRFV_GG29KawQ&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "name": "Allen Forest Zoo",
+      "type": "Zoo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGii2Hw2Svvjb8dJyWaNNJ5KG510l76t47wA&s"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Srinagar",
+      "name": "Dal Lake",
+      "type": "Lake",
+      "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2023/08/pexels-photo-12750077.webp"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Leh",
+      "name": "Pangong Tso",
+      "type": "Lake",
+      "image": "https://www.adventurenation.com/blog/wp-content/uploads/2016/06/Pangong-Lake-Ladakh-2.jpg"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Pahalgam",
+      "name": "Betaab Valley",
+      "type": "Valley",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0x9f5K9JmOKyUPuHOLIvRWI8wxj_eL_l9PA&s"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Jammu",
+      "name": "Vaishno Devi",
+      "type": "Temple",
+      "image": "https://i0.wp.com/www.easeindiatrip.com/blog/wp-content/uploads/2025/01/Maa-Vaishno-Devi-temple.jpg?fit=1024%2C571&ssl=1"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Udhampur",
+      "name": "Patnitop Height",
+      "type": "Hill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbr08VBS-qTZdCLvv-zl0RfgzRrN3C1OuNJA&s"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Anantnag",
+      "name": "Amarnath Cave",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t3Y9YPzk0qtOXT0QO7tCiim4dBrmyRePXw&s"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Leh",
+      "name": "Thiksey Monastery",
+      "type": "Monastery",
+      "image": "https://www.overlandescape.com/storage/blogs/5c3706c9ea57a111_thiksey-gompa.jpg"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Nubra Valley",
+      "name": "Nubra Valley",
+      "type": "Valley",
+      "image": "https://cdn.audleytravel.com/1050/749/79/1332595-nubra-valley.webp"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Kargil",
+      "name": "Kargil War Memorial",
+      "type": "War Memorial",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nOvUq4tHP6fqTWsCm_W8IOvoQCz7YWXpXg&s"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Diskit",
+      "name": "Diskit Monastery",
+      "type": "Monastery",
+      "image": "https://discoverlehladakh.in/wp-content/uploads/2020/06/Diskit-monastery-Nubra-valley-Ladakh-1140x530.jpg"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Kishtwar",
+      "name": "Kishtwar National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ep8uWvu9X-r6NeUWjSW1gQ-vAYVXjVIzYg&s"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Hemis",
+      "name": "Hemis National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoNqSzBnCgDTf0I8BTSOz2u4zc4bsDJeDgw&s"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Dras",
+      "name": "Dras War Memorial",
+      "type": "War Memorial",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2wxsfWo_rbC8HRC0jkLJFFmngWFtnlvPZJg&s"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Leh",
+      "name": "Magnetic Hill",
+      "type": "Gravity Hill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPB039yXm1SwIOF6QOFYL6lsHmq7_VW8KiHw&s"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Leh",
+      "name": "Khardung La Pass",
+      "type": "Hill",
+      "image": "https://hikerwolf.com/wp-content/uploads/2021/02/khardung-la-top-599x400.jpg"
+    },
+    {
+      "state": "Ladakh",
+      "city": "Leh",
+      "name": "Thiksey Monastery",
+      "type": "Monastery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ws0PlFf1uuQBZof5Uf3M3w1PwId6K8yHVw&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Vrindavan",
+      "name": "Prem Mandir",
+      "type": "Temple",
+      "image": "https://cdn-gmldj.nitrocdn.com/MzocZdmkUoGzKbfrmziNgKraKcMhCMkx/assets/static/optimized/rev-1cc2619/wp-content/uploads/2022/10/prem-mandir-vrindavan-1024x576.jpeg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Porbandar",
+      "name": "Kirti Mandir",
+      "type": "Memorial",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTa7I8wLFGdO-yNTNyLZZC_VgzvbUDZVE4Yw&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "name": "Nand Gaon",
+      "type": "Village",
+      "image": "https://cdn1.tripoto.com/media/filter/nl/img/2380291/image/1701967875_same_day_car_for_goverdhan_barsana_nandgaon3.jpg.webp"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Mathura",
+      "name": "Barsana Mandir",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzIbdlDrQ6PifJ2kjqEnOD4aqLSrJQh3rPqg&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Darjeeling",
+      "name": "Tiger Hill",
+      "type": "Sunrise Point",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShM5enUVgfJXfE3rdx2siAIkxc7ZtV3_Rv3w&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Siliguri",
+      "name": "Jaldapara National Park",
+      "type": "Wildlife Sanctuary",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEeFDiC_Hre4uC80bvhPCvIIhyR3pcMyyTcA&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Sundarbans",
+      "name": "Sundarbans National Park",
+      "type": "National Park",
+      "image": "https://www.travelchhutichhuti.com/blog/wp-content/uploads/2020/11/Sundarban-National-Park.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Digha",
+      "name": "Digha Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8jCwMBV0HkP4JA9Qsy6hNpbWg5PXcpN9tg&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Murshidabad",
+      "name": "Hazarduari Palace",
+      "type": "Palace",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7YBAw_B0jQKMgcv1NbAVWQajXztACmh2eA&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Bolpur",
+      "name": "Kankalitala Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADdM-3XAeSPXQy6oDZ6vPNGU8iJP7Z26CQQ&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Hooghly",
+      "name": "Hangseswari Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PmJuekjAckPXTzr7gvgVL3a8toaIg2YU8A&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Jalpaiguri",
+      "name": "Gorumara National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEt77uGdsizkrKXFkV6rRpXqPXlfGwFnjlHA&s"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Cooch Behar",
+      "name": "Cooch Behar Palace",
+      "type": "Palace",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/28/49/cd/getlstd-property-photo.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Purulia",
+      "name": "Ayodhya Hills",
+      "type": "Hill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwYIwP4O0bezQ6fU8NoHuDq9ZfxoLuGmCSw&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Puri",
+      "name": "Jagannath Temple",
+      "type": "Temple",
+      "image": "https://api.blessingsonthenet.com/uploads/microsite/8cb4668125e28a8b8b0e98810fa2baaf-1698745397625-Shree-Jagannath-Temple-Puri.jpg"
+    },
+    {
+      "state": "Odisha",
+      "city": "Konark",
+      "name": "Sun Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_9eP42cmiwl8-_05L0uL82SQoqQwNJVHxg&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Bhubaneswar",
+      "name": "Lingaraj Temple",
+      "type": "Temple",
+      "image": "https://www.drishtiias.com/images/uploads/1618820610_image6.jpg"
+    },
+    {
+      "state": "Odisha",
+      "city": "Rourkela",
+      "name": "Khandadhar Waterfall",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicBc1M5xMAd4rHXfuRBWx-GnVeLxD84nQMg&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Cuttack",
+      "name": "Barabati Fort",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6Uq9Lj7vsmNzTh6T5wq0LpKeGvEoG_j0_A&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Sambalpur",
+      "name": "Hirakud Dam",
+      "type": "Dam",
+      "image": "https://vajiram-prod.s3.ap-south-1.amazonaws.com/Hirakud_Dam_976ccd7ac9.webp"
+    },
+    {
+      "state": "Odisha",
+      "city": "Chilika",
+      "name": "Chilika Lake",
+      "type": "Lake",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fRXyQVclgfKZpCMbPxZEsy-2CIpi5G8L3A&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Berhampur",
+      "name": "Tara Tarini Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0VoEJ6qBB-beUAHNiSYZZ8TZzDazPyJD6w&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Keonjhar",
+      "name": "Badaghagara Waterfall",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicBc1M5xMAd4rHXfuRBWx-GnVeLxD84nQMg&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Balasore",
+      "name": "Chandipur Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeqaYbvxc6WRr08UL-FCgCDZ_Wv6BO2XVDw&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Kendujhar",
+      "name": "Sanaghagara Waterfall",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIktpE7wQ17lEGaBGPaQHXqlloiPdl4AtQlw&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "name": "Marina Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYIgBmwVq-0v-vMJ4FhbLYaktopigD0FiWg&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Madurai",
+      "name": "Meenakshi Amman Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsq7j5iQ_f8HcrWhRkLCSEHMXqwfKKcc9tg&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Rameswaram",
+      "name": "Ramanathaswamy Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AeJ9GwZtkOGNXJH18qzX0awfyEx80yDFaQ&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Kanyakumari",
+      "name": "Vivekananda Rock Memorial",
+      "type": "Memorial",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-fxsiknuHuAPguyWUbKK4oOEIhqh9oYQjw&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Ooty",
+      "name": "Ooty Lake",
+      "type": "Lake",
+      "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/avalanche-lake-1656249684_7eb29b132f5c8f1e0171.webp"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Coimbatore",
+      "name": "Marudamalai Temple",
+      "type": "Temple",
+      "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/maruthamalai-arulmigu-subramanya-swami-temple-1656145083_6a726b6ad0a28959a6b4.webp"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Kodaikanal",
+      "name": "Kodaikanal Lake",
+      "type": "Lake",
+      "image": "https://www.stayvista.com/blog/wp-content/uploads/2024/11/24271869876_485a96419a_c-370x245.jpg"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Thanjavur",
+      "name": "Brihadeeswarar Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4Imi1qQRHtQ7euHeqbt4_RkewLnL-U8cOA&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Mahabalipuram",
+      "name": "Shore Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcmBlyAlHhqEle2Q5kyNv0fVSIddVtDjZTg&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Yercaud",
+      "name": "Yercaud Lake",
+      "type": "Lake",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Tirunelveli",
+      "name": "Nellaiappar Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTftbDlDgbhvd3w9_CRnsiPxeJVmDLCj-E85g&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chidambaram",
+      "name": "Nataraja Temple",
+      "type": "Temple",
+      "image": "https://api.blessingsonthenet.com/uploads/microsite/4b8560b4d3ceb52df15ce4addf188570-1699018556938-nataraja-temple-chidambaram.jpg"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Vijayawada",
+      "name": "Kanaka Durga Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnPJN1ey--8vwDQjLdbmR_5b9dqh91VYLew&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Rishikonda Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzdgluxkF1BtnECvO5Kl99kjxvG_HZLbqnw&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Srisailam",
+      "name": "Mallikarjuna Swamy Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfZMrNInPXy_0a0Uz3JebrVQlHI6t237JSQ&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Rajahmundry",
+      "name": "Papikondalu",
+      "type": "Hill",
+      "image": "https://www.samedayagratour.co.in/wp-content/uploads/2024/01/Things-To-Do-In-Lepakshi-1024x600.jpg"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Anantapur",
+      "name": "Lepakshi",
+      "type": "Site",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjRgp1P2pSVTEe6J1oWQpjF_wxrq3lnQOzA&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Kurnool",
+      "name": "Belum Caves",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4_rERUx8fiNttW3z9vM5OevasfRNBIFD8qw&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Amravati",
+      "name": "Amaravathi Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3tFBeXioe_81PmRXY4FAanrJ1I7yC4V_0Q&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Guntur",
+      "name": "Uppalapadu Bird Sanctuary",
+      "type": "Bird Sanctuary",
+      "image": "https://images.nativeplanet.com/img/2018/05/sanctuarycover-1525856247.jpg"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Kadapa",
+      "name": "Gandikota Fort",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCm5i_ls-R6jhD9D3iErieGegCCjD9lyEnQ&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Puttaparthi",
+      "name": "Prasanthi Nilayam",
+      "type": "Spiritual Center",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7FJwgi-Zl5QoyLxQxMLIS_JnAkqyK-FFNA&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Vizianagaram",
+      "name": "Simhachalam Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82_tRSwBRMju8VJyqdL989-QIApCF7aOp2w&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Kailasagiri",
+      "type": "Hill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqOhl81GyKlf877ZKNGFyuh0IJnvzL2R6WQ&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Submarine Museum",
+      "type": "Museum",
+      "image": "https://vizagtourism.org.in/images/places-to-visit/header/ins-kurusura-submarine-museum-vizag-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Borra Caves",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQieG3jBCgtRNcNYTgscOCGe4FiukjwudJjOg&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "War Memorial",
+      "type": "War Memorial",
+      "image": "https://static.punemirror.com/full/71399f5d-1f70-43f9-92d6-4e6ccf2ca0dd.webp"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Indira Gandhi Zoological Park",
+      "type": "Zoo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvODs5HTYidVfNqKC5cgcHLNPZoeHNTRAiww&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Matsyadarshini Aquarium",
+      "type": "Aquarium",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNRhNQBFlDacllCBEgXbnmoiG46svr5oZ5g&s"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "name": "Visakha Museum",
+      "type": "Museum",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FfLSsS-qYFjddMU4Dg3SOvb0aOjVqDruAw&s"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "name": "Nathula Pass",
+      "type": "Hill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuC6MKPKNBIe0eDx1cbQYdJKcrwiscJCMU5w&s"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Pelling",
+      "name": "Pemayangtse Monastery",
+      "type": "Monastery",
+      "image": "https://tripxl.com/blog/wp-content/uploads/2024/07/OG-Cover-Pemayangtse-Monastery-Pelling.jpg"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Namchi",
+      "name": "Char Dham",
+      "type": "Religious Complex",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnrrpDQHdoLeXUvpmlk40grZnmNuDmbsPWA&s"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "name": "Rumtek Monastery",
+      "type": "Monastery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79hd8Q7rZGHtObY4kJPKRKTOp6O6uYN-UZQ&s"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Ravangla",
+      "name": "Buddha Park",
+      "type": "Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKT77eABQtZ4TvY0Ab7Me1BykYynxlAabyXQ&s"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "name": "Baba Harbhajan Singh Temple",
+      "type": "Temple",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/baba-harbhajan-singh-temple-gangtok-2-attr-hero?qlt=82&ts=1727355115899"
+    },
+    {
+      "state": "Sikkim",
+      "city": "Gangtok",
+      "name": "Tsomgo Lake",
+      "type": "Lake",
+      "image": "https://www.esikkimtourism.in/wp-content/uploads/2019/04/tsomgosptmbr.jpg"
+    },
+    {
+      "state": "Assam",
+      "city": "Guwahati",
+      "name": "Kamakhya Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9tZ1za_dU5NgHmovfyUU7J2ximzCKs8tzSg&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Kaziranga",
+      "name": "Kaziranga National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RwlS0ymnHffIL8d740XuZu54JfG3SCrsLQ&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Guwahati",
+      "name": "Umananda Island",
+      "type": "Island",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhr6AS7rsYEeK9sJ2Z6p101M9Uh_bBXeYg4w&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Sivasagar",
+      "name": "Sivasagar Sivadol",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GB-txpQIoLtRyqmc3v1NXQVsHKrf1o7W_Q&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Majuli",
+      "name": "Majuli Island",
+      "type": "River Island",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScl1MGFZLJF2tLp9K1S8hMrZvgpNb9FEXwDw&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Manas",
+      "name": "Manas National Park",
+      "type": "National Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaB3RLonuHNhpgfaociyK8eb-l9Im8m6_OvQ&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Hajo",
+      "name": "Hayagriva Madhava Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NoETA8C6eLT3D4cv4LkSAW3YLMrNW9NEAg&s"
+    },
+    {
+      "state": "Assam",
+      "city": "Guwahati",
+      "name": "Pobitora Wildlife Sanctuary",
+      "type": "Wildlife Sanctuary",
+      "image": "https://www.pobitorawildlifesanctuary.in/images/pobitota-assam.jpg"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "city": "Tawang",
+      "name": "Tawang Monastery",
+      "type": "Monastery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbD5xO7LEn0A3Wnq-Br6ByiVpoF-akKFgkg&s"
+    },
+    {
+      "state": "Tripura",
+      "city": "Agartala",
+      "name": "Ujjayanta Palace",
+      "type": "Palace",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBYcqiRWM2eKFTUTSMobX_-Eju3MiqsxBLQ&s"
+    },
+    {
+      "state": "Tripura",
+      "city": "Dumboor",
+      "name": "Dumboor Lake",
+      "type": "Lake",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEwmPOORT9SpZmo9ovvIspuooAtPcg9oPrQ&s"
+    },
+    {
+      "state": "Tripura",
+      "city": "Unakoti",
+      "name": "Unakoti Rock Carvings",
+      "type": "Rock Carvings",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHapBk_gX9v77MU2rp-bnQJF1q38PsXN47w&s"
+    },
+    {
+      "state": "Chhattisgarh",
+      "city": "Bastar",
+      "name": "Chitrakote Falls",
+      "type": "Waterfall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqX7QArTMvLevMhBdwsqTyDkn8VzDGaZ8DfQ&s"
+    },
+    {
+      "state": "Nagaland",
+      "city": "Dzükou Valley",
+      "name": "Dzukou Valley",
+      "type": "Valley",
+      "image": "https://wondervision.in/api/img/Dz%C3%83%C2%BCkou-Valley-Wonder-Vision-Holidays.jpg"
+    },
+    {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "name": "Promenade Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs11Nim9wb3vXUL9psMMCeGMNiCu1hUEbJg&s"
+    },
+    {
+      "state": "Puducherry",
+      "city": "Auroville",
+      "name": "Auroville",
+      "type": "Township",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHY2Uw4Lqm5pPNC1mmEV7aJCyJZq2b-OlEA&s"
+    },
+    {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "name": "Paradise Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs11Nim9wb3vXUL9psMMCeGMNiCu1hUEbJg&s"
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "city": "Port Blair",
+      "name": "Cellular Jail",
+      "type": "Landmark",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5NuAuvkFssmKjFBU0eKCRuQJHNPFPZx1HQ&s"
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "city": "Havelock Island",
+      "name": "Radhanagar Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs11Nim9wb3vXUL9psMMCeGMNiCu1hUEbJg&s"
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "city": "Neil Island",
+      "name": "Bharatpur Beach",
+      "type": "Beach",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjs11Nim9wb3vXUL9psMMCeGMNiCu1hUEbJg&s"
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "city": "Baratang Island",
+      "name": "Limestone Caves",
+      "type": "Natural Feature",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXDiWguOJDRXcfaCFHnT7HFy34kvOF0dTbA&s"
+    },
+    {
+      "state": "Daman and Diu",
+      "city": "Diu",
+      "name": "Naida Caves",
+      "type": "Cave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgC2as1leN-RR246btkN72IO-lCS5QjF-ZJA&s"
+    },
+    {
+      "state": "Daman and Diu",
+      "city": "Diu",
+      "name": "Diu Fort",
+      "type": "Fort",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4WkB9MFLtapNcMHo7m-VzIl5jM8aOolkuw&s"
+    },
+    {
+      "state": "Jharkhand",
+      "city": "Deoghar",
+      "name": "Baba Baidyanath Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStu3UcH961_gZCxTJq3zSmjFmWSZ42vgbXGw&s"
+    },
+    {
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "name": "Pahari Mandir",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZulP-1-WCtdX0BRBi-MvQyoG73IDBMe2Kw&s"
+    },
+    {
+      "state": "Bihar",
+      "city": "Bodh Gaya",
+      "name": "Mahabodhi Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-E_PQUqSBHyDF-vwtmA3fhC1nkXZ85WnUA&s"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "name": "Sanjay Gandhi Biological Park",
+      "type": "Zoo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7G8f1YQ8p5ppcvIkL6YJM9-NfxFvYow8mw&s"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "name": "Takhat Shri Harimandir Ji Patna Sahib",
+      "type": "Gurudwara",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLr1NgRcFBDCptU7_jzwFJ7gkiqSHl22UFVQ&s"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "name": "Budhha Smriti Park",
+      "type": "Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQju5PftnBHNa5-mqXJggZB1pfMw7f6oW2MXQ&s"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "name": "Kingdom of Dreams",
+      "type": "Entertainment",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTiYPTCI9rJuR7u7bbgvCPCHb_g6Ze25om7Q&s"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "name": "Ambience Mall",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv_Rae2hwIsjMqQC34Wj7PX90w8k0y4YbDQ&s"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "name": "DLF CyberHub",
+      "type": "Commercial Complex",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21UWXmmymPM_zjGQ3IyoLie4zv8Ee1zFiMQ&s"
+    },
+    {
+      "state": "Delhi",
+      "city": "New Delhi",
+      "name": "Gurudwara Bangla Sahib",
+      "type": "Gurudwara",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYcH1sX42xPFEzvmQhwtmNQqqQrdMm6exCrw&s"
+    },
+    {
+      "state": "Uttarakhand",
+      "city": "Kedarnath",
+      "name": "Kedarnath",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6HvI2eBw1Su5AVvbyIR3jt-nzb1R5RYWWA&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "name": "DLF Mall of India",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pX_6pZudkxbh3Poozr57QmeBxIVWN4hRxA&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Greater Noida",
+      "name": "The Grand Venice Mall",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqkO_7ehZxkmLEM73N7lOMbWeFgwHHcQ4Wg&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "name": "Wonderla Amusement Park",
+      "type": "Amusement Park",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V7n4hPBMEYj9Y0-6EhbYcsqp76hkz2H6zA&s"
+    },
+    {
+      "state": "Odisha",
+      "city": "Bhubaneswar",
+      "name": "Nandankanan Zoological Park",
+      "type": "Zoo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8uwc-w5bqMHdhqxz-sA5K_5VnTkKfvCPNw&s"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "name": "Orion Mall",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSzJqT4svp4lMkmIYPtiuguVmQPXhKteIrg&s"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "name": "Inorbit Mall Cyberabad",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAhKgOvGvrzATIoRI0W3sFmLiK2x41JoE8Kw&s"
+    },
+    {
+      "state": "Delhi",
+      "city": "New Delhi",
+      "name": "Jama Masjid",
+      "type": "Mosque",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZIEjo8axSEX83l48Xvio45spe83FfDGP8w&s"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Rameswaram",
+      "name": "Ramanathaswamy Temple",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5EmImNe-LQEgNsllajvhI4hflOhWApwcNw&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Greater Noida",
+      "name": "Buddh International Circuit",
+      "type": "Race Track",
+      "image": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202309/maxresdefault-1220923022639.jpeg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "name": "Phoenix Palassio",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-YaGtmvT3KyU4fx4HNtUL0lDeeMfPTU2WA&s"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kochi",
+      "name": "LuLu International Shopping Mall",
+      "type": "Mall",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7upbem1-Xa0fIdOffZKEHBIn3KieR3tAp5A&s"
+    },
+    {
+      "state": "Delhi",
+      "city": "New Delhi",
+      "name": "Rail Museum",
+      "type": "Museum",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-6unpiim1755rmqrt8h8dj78cn2-20161225023202.Medi.jpeg"
+    },
+    {
+      "state": "Meghalaya",
+      "city": "Cherrapunji",
+      "name": "Living Root Bridge",
+      "type": "Natural Feature",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Gandhinagar",
+      "name": "Akshardham",
+      "type": "Temple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9gotLIERRTR6NdKpBVN21oXPLQKO2asK6A&s"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "name": "Agra Fort",
+      "type": "Fort",
+      "image": "https://whc.unesco.org/uploads/thumbs/site_0251_0010-1200-630-20240807180746.jpg"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "name": "Madhya Pradesh Tribal Museum",
+      "type": "Museum",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv87cREu5ZV6FaQtUJ-8iwtwQeZJwNsLqKCQ&s"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "name": "city Palace",
+      "type": "Palace",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Udaipur_city_Palace.jpg/1200px-Udaipur_city_Palace.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "name": "Albert Hall Museum",
+      "type": "Museum",
+      "image": "https://content-tourist.rajasthan.gov.in/uploads/albert_hall_museum_jaipur_entry_fee_timings_holidays_reviews_header_219f4b832f.jpg"
+    }
+  ]

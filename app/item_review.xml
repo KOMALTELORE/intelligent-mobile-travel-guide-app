@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--tools:context=".ReviewAdapter"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:orientation="vertical"-->
+<!--android:padding="8dp"-->
+<!--android:background="?android:attr/selectableItemBackground">-->
+
+<!--<TextView-->
+<!--    android:id="@+id/userName"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="User Name"-->
+<!--    android:textStyle="bold"-->
+<!--    android:textSize="18sp" />-->
+
+<!--<TextView-->
+<!--    android:id="@+id/location"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="Location"-->
+<!--    android:textSize="16sp" />-->
+
+<!--<RatingBar-->
+<!--    android:id="@+id/ratingBar"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:numStars="5"-->
+<!--    android:stepSize="1.0"-->
+<!--    android:isIndicator="true" />-->
+
+<!--<TextView-->
+<!--    android:id="@+id/comment"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="Comment"-->
+<!--    android:textSize="14sp"-->
+<!--    android:paddingTop="4dp" />-->
+
+<!--</LinearLayout>-->
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".ReviewAdapter"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+android:padding="12dp"
+android:background="@android:color/white"
+android:layout_marginBottom="8dp"
+android:elevation="2dp">
+
+<TextView
+    android:id="@+id/userNameTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="UserName"
+    android:textStyle="bold"
+    android:textSize="18sp"
+    android:paddingBottom="4dp" />
+
+<TextView
+    android:id="@+id/locationTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Location"
+    android:textSize="16sp"
+    android:paddingBottom="4dp" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="0.5"
+        android:isIndicator="true" />
+
+<TextView
+    android:id="@+id/commentTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Comment"
+    android:textSize="16sp"
+    android:paddingTop="4dp" />
+</LinearLayout>
+

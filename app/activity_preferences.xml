@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Your Preferences"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:paddingBottom="16dp" />
+
+        <!-- Selected Preferences Section -->
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp">
+
+            <LinearLayout
+                android:id="@+id/selectedPreferencesLayout"
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical" />
+        </HorizontalScrollView>
+
+        <!-- Your Existing Buttons -->
+        <Button android:id="@+id/button_religious" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Religious" />
+        <Button android:id="@+id/button_nature" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Nature" />
+        <Button android:id="@+id/button_parks_gardens" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Parks and Gardens" />
+        <Button android:id="@+id/button_historical_cultural" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Historical and Cultural" />
+        <Button android:id="@+id/button_entertainment" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Entertainment" />
+        <Button android:id="@+id/button_urban_landmarks" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Urban and Landmarks" />
+        <Button android:id="@+id/button_sports_adventure" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Sports and Adventure" />
+        <Button android:id="@+id/button_bridges_dams" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bridges and Dams" />
+        <Button android:id="@+id/button_scenic_viewpoints" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Scenic and Viewpoints" />
+        <Button android:id="@+id/button_agriculture_plantation" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Agriculture and Plantation" />
+        <Button android:id="@+id/button_spiritual_meditation" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Spiritual and Meditation" />
+        <Button android:id="@+id/button_islands" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Islands" />
+        <Button android:id="@+id/button_other" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Other" />
+
+    </LinearLayout>
+</ScrollView>

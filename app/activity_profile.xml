@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/mobile_app_bg"
+    android:orientation="vertical"
+    tools:context=".ProfileActivity"
+    android:padding="16dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/ivProfile"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginEnd="16dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/baseline_person_circle_24"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginStart="5dp"/>
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".DashboardPageActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="115dp"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:gravity="center">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/edit_profile"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/edit_profile_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/edit_profile"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/edit_profile_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Edit Profile"
+                            android:textSize="20sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/preferances"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/preferances_img"
+                            android:layout_width="78dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/preferences"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/preferances_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="preferences"
+                            android:textSize="20sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="115dp"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:gravity="center">
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/Budget"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/Budget_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/budetplan"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/Budget_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Budget Plan"
+                            android:textSize="20sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/hotel"
+                    android:layout_width="140dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/hotel_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/hotel"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/hotel_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Hotel Suggestion"
+                            android:textSize="18sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="115dp"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:gravity="center">
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/place"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/place_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/placerecom"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/place_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Place Recomendation"
+                            android:textSize="18sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/history"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/history_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/history"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/history_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Travel History"
+                            android:textSize="20sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="115dp"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:gravity="center">
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/reviews"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/review_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/review"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/review_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Reviews"
+                            android:textSize="20sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#D3D3D3"
+                    android:id="@+id/logout"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_margin="15dp"
+                    android:gravity="center"
+                    app:cardCornerRadius="10dp"
+                    app:cardElevation="5dp">
+
+                    <LinearLayout
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/Logout_img"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:background="@drawable/logout"
+                            android:padding="10dp" />
+
+                        <TextView
+                            android:id="@+id/Logout_txt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Logout"
+                            android:textSize="20sp"
+                            android:textStyle="italic" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
+
+
+
+
+
